@@ -46,3 +46,5 @@ Interactive Rock–Paper–Scissors game: gets validated player input, random co
 ### T5RockPaperScissors_Cheat.py
 Variant of the game that reveals (prints) the computer’s choice before the player inputs theirs—useful for “cheating” or debugging flow—then proceeds as usual. :contentReference[oaicite:7]{index=7}
 
+### T7Car.py
+This module defines a `Car` class that simulates basic vehicle operations.
