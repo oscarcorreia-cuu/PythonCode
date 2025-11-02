@@ -70,3 +70,35 @@ Demonstrates key concepts of **inheritance** in Python using a multi-level class
 - **Method Inheritance & Override:** Shared methods, customized behavior, and use of `super()`.  
 - **Features:** Code reuse, specialization, and polymorphism.  
 - **Benefits:** Extends functionality, enables cleaner design, and supports flexible behavior.
+
+### T7Car_Polymorphism.py
+Demonstrates **polymorphism** in Python, where different car types share the same interface but behave uniquely.
+
+#### Key Concepts
+- Each subclass (`ElectricCar`, `SportsCar`, etc.) overrides `start_engine()` and `accelerate()` from the base `Car` class.  
+- The `test_drive()` function interacts with any car type, showcasing polymorphic behavior.
+
+#### Example Behaviors
+- **Regular Car:** Standard engine start and acceleration.  
+- **Electric Car:** Silent start, faster acceleration, and battery management.  
+- **Sports Car:** Aggressive engine sound and fastest acceleration.
+
+#### Summary
+Running this code reveals how various car types respond differently while using the same method calls — a core feature of polymorphism.
+
+### T7bat_and_ball_2.py
+Demonstrates **inheritance**, **polymorphism**, and **encapsulation** in a simple Pygame-based simulation using `GameObject`, `Paddle`, and `Ball` classes.
+
+#### Key OOP Concepts
+- **Inheritance:**  
+  `Paddle` and `Ball` inherit from `GameObject`, sharing common attributes (e.g., position, size) and methods (`draw()`), promoting code reuse.
+
+- **Polymorphism:**  
+  Both override the `draw()` method — `Paddle` uses `pygame.draw.rect()` while `Ball` uses `pygame.draw.ellipse()`.  
+  In the game loop, calling `draw()` on each object shows different behavior depending on the class.
+
+- **Encapsulation:**  
+  Each class manages its own state (position, speed) internally and exposes public methods (`move()`, `draw()`) for controlled interaction.
+
+#### Summary
+This program illustrates how inheritance reduces duplication, polymor
