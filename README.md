@@ -48,3 +48,25 @@ Variant of the game that reveals (prints) the computer’s choice before the pla
 
 ### T7Car.py
 This module defines a `Car` class that simulates basic vehicle operations.
+
+### T7Car_Encapsulation.py
+Demonstrates **encapsulation** in Python OOP by using private attributes, getters, and setters to control access and maintain internal consistency.
+
+### Key Concepts
+- **Data Hiding:** Private attributes and methods prevent direct external access.  
+- **Access Control:** `@property` and `.setter` manage controlled data access and validation.  
+- **Benefits:** Ensures data integrity, manages internal state, and handles complex logic internally.
+
+Encapsulation keeps internal data secure while providing a clean interface for external interaction.
+
+### T7Car_Inheritance.py
+Demonstrates key concepts of **inheritance** in Python using a multi-level class hierarchy.
+
+#### Inheritance Structure
+- `Vehicle` (base class)  
+  └── `Car` → `ElectricCar`, `HybridCar`, `SportsCar`
+
+#### Key Concepts
+- **Method Inheritance & Override:** Shared methods, customized behavior, and use of `super()`.  
+- **Features:** Code reuse, specialization, and polymorphism.  
+- **Benefits:** Extends functionality, enables cleaner design, and supports flexible behavior.
