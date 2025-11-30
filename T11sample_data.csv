@@ -1,0 +1,1002 @@
+CustomerID,Name,Age,Gender,Country,SignupDate,LastPurchase,Product,Quantity,Price,Revenue,Feedback
+1,Allison Allen,56,Female,Australia,24/02/2023,29/09/2024,Electronics,10,836.07,8360.71,4
+2,Brenda Davis,69,Female,Germany,16/09/2017,12/05/2023,Sports,3,28.63,85.9,3
+3,Nicole Johnson,46,Male,Canada,14/09/2018,29/04/2021,Sports,6,257.3,1543.79,5
+4,Denise Rivera,32,Female,Germany,16/05/2023,07/07/2023,Sports,8,299.31,2394.49,5
+5,Crystal Morales,60,Female,France,03/02/2019,12/09/2022,Beauty,1,6.26,6.26,2
+6,Dana Moran,25,Female,France,27/12/2022,06/07/2024,Sports,1,245.97,245.97,
+7,Craig Leonard,38,Male,France,04/11/2019,23/01/2021,Clothing,2,130.85,261.71,1
+8,Marc Torres,56,Male,India,16/07/2021,04/07/2022,Books,6,78.07,468.39,1
+9,Kaitlyn Miller MD,36,Male,India,24/12/2022,18/09/2023,Books,9,90.68,816.13,2
+10,Stacey Rowe DVM,40,Female,USA,15/10/2018,24/07/2020,Beauty,4,5.2,20.79,
+11,Bill Contreras,28,Female,India,20/05/2018,13/07/2022,Clothing,3,185.09,555.26,4
+12,Rodney King,28,Female,Brazil,23/07/2020,28/03/2023,Home & Kitchen,8,184.66,1477.32,5
+13,Jeffrey Richardson,,Male,Canada,18/12/2015,19/06/2018,Home & Kitchen,10,340.13,3401.29,3
+14,Lydia Knight,70,Female,Australia,11/03/2019,04/03/2024,Sports,9,275.62,2480.54,4
+15,Joseph Camacho,53,Male,Australia,11/02/2019,21/02/2021,Electronics,5,541.69,2708.44,3
+16,Jerry Schroeder,57,Male,USA,19/06/2017,10/02/2019,Home & Kitchen,9,87.05,783.47,5
+17,Raymond Lynch,41,Male,India,21/11/2019,19/08/2021,Electronics,2,912.87,1825.74,1
+18,Thomas Estes,20,Female,Brazil,05/10/2016,02/06/2020,Books,3,90.46,271.39,3
+19,Wendy Todd,39,Male,Germany,22/04/2016,08/04/2023,Electronics,7,618.95,4332.67,2
+20,Tanya Brown,70,Female,USA,06/08/2020,15/12/2021,Books,7,23.56,164.91,5
+21,Thomas Cooper,19,Female,Brazil,13/01/2021,03/06/2023,Clothing,6,159.71,958.29,4
+22,Jeffrey Lopez,41,Male,Germany,01/07/2022,17/05/2024,Clothing,6,181.62,1089.7,4
+23,Scott Bennett,61,Female,Brazil,26/03/2017,17/06/2020,Beauty,2,87.89,175.77,4
+24,Donald Allen,47,Male,Germany,19/07/2019,20/10/2021,Beauty,10,135.92,1359.17,
+25,Bryan Schneider,55,Male,UK,15/02/2020,25/03/2022,Sports,6,26.14,156.82,5
+26,Brian Williams,19,Male,Brazil,05/02/2024,09/06/2024,Home & Kitchen,4,470.08,1880.31,5
+27,Lori Phillips,38,Male,Australia,22/02/2024,24/08/2024,Sports,3,29.42,88.26,3
+28,Samuel Stephenson,50,Female,France,18/10/2021,06/09/2024,Books,2,45.16,90.31,2
+29,James Lawson,29,Male,India,07/04/2019,03/08/2024,Sports,1,289.06,289.06,
+30,Justin Hawkins,39,Female,Germany,12/04/2017,30/05/2020,Electronics,5,989.67,4948.35,4
+31,Joseph Romero,61,Female,UK,04/10/2017,07/06/2018,Books,2,54.83,109.66,3
+32,Monica Diaz,42,Female,,08/06/2017,27/11/2018,Beauty,2,89.44,178.88,4
+33,Jennifer Vargas,66,Female,Australia,24/09/2024,29/09/2024,Clothing,7,183.25,1282.72,
+34,Betty Miller,44,Female,France,27/04/2021,30/08/2023,Beauty,8,97.28,778.26,3
+35,Mercedes Lyons,59,Male,Germany,04/01/2016,17/06/2021,Home & Kitchen,10,266.73,2667.31,4
+36,Donald Yates,45,Male,Brazil,14/09/2019,30/06/2020,Books,8,32.15,257.24,5
+37,Victoria Foster,33,Female,Brazil,25/12/2020,30/06/2022,Books,4,11.76,47.02,4
+38,Mark Decker,32,Female,Germany,26/10/2016,23/07/2022,Electronics,1,640.25,640.25,3
+39,Daniel Cook,64,Male,USA,26/01/2021,22/11/2022,Home & Kitchen,7,299.62,2097.31,
+40,Ashley Edwards,68,Female,USA,25/06/2020,17/11/2022,Clothing,1,56.28,56.28,
+41,Michael Jones,61,Male,Australia,25/03/2023,28/02/2024,Books,4,82.69,330.76,5
+42,Melissa Macias,69,Female,France,06/04/2022,03/05/2024,Books,8,57.19,457.49,4
+43,Howard Lambert,20,Male,,22/04/2024,05/09/2024,Electronics,2,598.9,1197.81,3
+44,Dana Jackson,54,Male,Australia,08/06/2022,07/02/2024,Sports,6,253.79,1522.76,
+45,Stephen Larson,68,Male,Australia,17/07/2024,21/08/2024,Clothing,6,94.63,567.77,3
+46,Kathryn Davis,24,Female,Canada,02/04/2023,02/01/2024,Beauty,9,85.58,770.19,5
+47,Lauren Taylor,38,Female,Brazil,20/11/2017,19/10/2020,Home & Kitchen,5,210.36,1051.82,
+48,Cathy Knox,26,Male,India,29/10/2017,07/09/2020,Books,10,29.31,293.08,4
+49,Daniel Cross,56,Female,Brazil,08/12/2017,13/01/2021,Books,4,43.67,174.69,5
+50,Alexandria Dickson,35,Male,USA,16/11/2016,11/08/2017,Beauty,5,56.93,284.65,5
+51,Charles Williams,21,Female,France,24/10/2021,12/08/2023,Clothing,10,64.99,649.94,2
+52,Samantha Jarvis,42,Male,Brazil,21/05/2021,03/07/2024,Sports,5,28.18,140.92,4
+53,Rachel Williams,31,Male,Germany,25/06/2020,03/07/2023,Books,8,71.26,570.06,1
+54,Zachary Gonzalez,67,Female,Australia,21/04/2020,20/05/2024,Clothing,10,197.45,1974.47,4
+55,Karen Price,26,Other,Germany,11/06/2020,27/02/2022,Beauty,8,76.98,615.82,2
+56,Travis Weaver,43,Female,Canada,03/05/2023,27/08/2024,Electronics,2,653.73,1307.46,4
+57,Susan Combs,70,Female,France,21/05/2022,03/04/2024,Sports,7,49.17,344.18,5
+58,Judith Johnson,19,Female,Australia,24/12/2022,24/04/2023,Home & Kitchen,8,144.99,1159.95,
+59,Desiree Lewis,37,Male,Germany,12/11/2019,18/11/2021,Books,6,89.76,538.58,3
+60,Dustin Hill,45,Other,USA,17/12/2021,19/06/2022,Clothing,5,68.36,341.79,4
+61,Brian Conrad,64,Female,India,14/10/2018,17/05/2021,Electronics,9,438.22,3944.02,4
+62,Rachel Baker,24,Female,Canada,07/01/2016,14/03/2019,Home & Kitchen,3,448.69,1346.08,
+63,Vincent King,61,Female,France,10/04/2021,18/05/2022,Clothing,10,51.37,513.65,4
+64,Meghan Peterson,25,Female,Canada,17/09/2020,04/08/2021,Clothing,4,26.75,107,4
+65,Kendra Clark,64,Female,USA,08/01/2022,28/03/2023,Home & Kitchen,9,353.05,3177.49,
+66,Amber Waller,52,Male,France,11/03/2023,04/09/2024,Electronics,6,140.91,845.44,3
+67,James Munoz,31,Female,Canada,14/11/2024,19/11/2024,Beauty,8,135.06,1080.51,
+68,Anthony Carlson,34,Male,UK,07/10/2021,12/12/2021,Electronics,7,304.07,2128.47,
+69,Douglas Abbott,53,Other,USA,11/10/2022,23/07/2023,Sports,2,59.58,119.16,
+70,Mrs. Lydia Clayton DDS,67,Female,USA,13/08/2022,27/06/2023,Books,3,58.17,174.52,3
+71,John Clark,57,Male,USA,30/10/2018,20/02/2021,Home & Kitchen,1,184.78,184.78,4
+72,Misty Moore,21,Female,UK,12/03/2021,03/02/2024,Beauty,9,6.19,55.7,5
+73,Alexis Reynolds,19,Female,UK,10/08/2023,03/06/2024,Home & Kitchen,7,309.08,2163.58,3
+74,John Smith,23,Female,Germany,19/08/2016,11/11/2022,Home & Kitchen,1,174.72,174.72,4
+75,Stephanie Lane,59,Female,Australia,21/01/2020,26/11/2021,Electronics,3,867.68,2603.05,2
+76,David Smith,21,Male,India,06/01/2016,30/03/2017,Books,4,11.92,47.68,1
+77,Matthew Richardson,46,Female,Canada,01/04/2017,16/02/2019,Sports,4,222.05,888.21,4
+78,Jacob Mckinney,35,Female,Germany,03/03/2023,06/12/2023,Clothing,5,99.07,495.35,4
+79,Gabriela Raymond,43,Male,Canada,02/02/2016,06/03/2023,Clothing,3,144.07,432.21,3
+80,Tom Hughes,61,Female,India,15/10/2017,13/10/2020,Home & Kitchen,3,258.67,776.01,4
+81,Annette Suarez,51,Male,Australia,22/11/2016,12/07/2017,Books,1,66.4,66.4,4
+82,Cassie Hall,27,Male,UK,27/10/2018,25/12/2023,Beauty,7,79.3,555.13,4
+83,Kristin Lopez,53,Female,Australia,16/02/2023,20/01/2024,Electronics,10,796.04,7960.43,4
+84,Juan Moore,31,Female,UK,22/10/2018,12/10/2020,Books,1,83.91,83.91,4
+85,Christopher Clay,48,Male,India,30/08/2020,21/08/2022,Books,2,59.28,118.55,4
+86,Richard Flores,65,Female,Australia,07/06/2023,05/12/2023,Electronics,4,930.13,3720.52,2
+87,Cory Anderson,32,Male,Germany,17/04/2021,25/01/2024,Home & Kitchen,4,120.76,483.04,4
+88,Lori Sloan,25,Male,France,26/12/2018,27/09/2024,Books,5,88.08,440.38,4
+89,Marissa Patton,31,Male,Germany,27/04/2021,31/10/2022,Clothing,2,173.87,347.75,4
+90,Jennifer Levy,40,Male,Canada,03/08/2023,13/06/2024,Electronics,4,149.97,599.89,3
+91,Steven Moody,57,Male,Germany,20/10/2016,06/09/2017,Beauty,1,149.84,149.84,5
+92,Nicole Christian,38,Female,India,13/12/2015,02/10/2022,Sports,2,180.2,360.39,1
+93,Gregory Atkinson,33,Female,USA,22/05/2021,14/11/2022,Home & Kitchen,1,252.12,252.12,
+94,Connor Hamilton,62,Male,Canada,10/10/2023,30/10/2024,Electronics,10,600.81,6008.11,1
+95,Taylor Miller,35,Female,Australia,21/02/2016,12/04/2023,Sports,10,157.28,1572.84,
+96,Jennifer Gonzalez,64,Female,Canada,13/02/2017,09/09/2022,Sports,4,92.6,370.41,4
+97,Christopher Alexander,70,Male,France,24/04/2016,15/11/2019,Beauty,4,99.04,396.15,4
+98,Dylan Peterson,41,Female,UK,10/09/2023,07/08/2024,Books,7,69.76,488.35,3
+99,Brendan Palmer,43,Other,Australia,09/09/2017,28/07/2023,Beauty,10,92.9,928.99,1
+100,Maxwell Murray,42,Male,Brazil,10/07/2019,17/11/2022,Books,9,80.9,728.1,3
+101,Jonathan Parker,62,Male,Canada,11/06/2023,16/07/2024,Books,9,81.29,731.6,2
+102,Sean Flores,58,Female,Australia,21/07/2021,26/11/2023,Electronics,5,178.79,893.97,4
+103,Kristine Rollins,46,Female,Australia,03/07/2017,23/05/2019,Electronics,10,354.52,3545.21,3
+104,Robert Wise,32,Male,Australia,27/05/2021,27/08/2021,Home & Kitchen,1,419.69,419.69,5
+105,Melissa Mcdonald,62,Female,UK,28/11/2016,09/01/2019,Books,1,50.82,50.82,3
+106,Angela Hammond,18,Female,Brazil,28/12/2016,17/03/2021,Sports,6,146.65,879.89,
+107,Carrie Boyd,42,Female,India,04/04/2020,06/12/2020,Clothing,2,33.16,66.32,4
+108,Kara Cooper,24,Female,Germany,21/07/2023,11/08/2024,Home & Kitchen,8,99.4,795.21,2
+109,Julia Werner,26,Female,Australia,12/10/2020,12/09/2021,Electronics,9,673.39,6060.47,4
+110,Jonathan Williams,41,Male,USA,24/12/2015,28/05/2024,Beauty,4,71.63,286.51,3
+111,Jackson Maldonado,18,Male,India,21/03/2024,08/07/2024,Home & Kitchen,5,454.95,2274.73,2
+112,Karen Pearson,61,Female,France,09/07/2020,28/08/2023,Home & Kitchen,8,46.61,372.91,4
+113,Michael Mendez,25,Female,UK,07/10/2023,04/02/2024,Home & Kitchen,3,419.86,1259.57,4
+114,Abigail Walker,41,Male,Canada,30/09/2019,29/08/2024,Home & Kitchen,5,239.75,1198.73,
+115,Jennifer Lane,28,Female,UK,10/01/2021,20/10/2022,Clothing,3,98.92,296.75,4
+116,Rebecca Allen,68,Female,Canada,09/06/2019,27/01/2023,Beauty,10,136.37,1363.66,
+117,David Sanchez,34,Male,UK,08/06/2020,18/02/2023,Beauty,3,130.21,390.64,
+118,Luis Smith,25,Female,Canada,24/10/2024,28/10/2024,Beauty,3,102.74,308.22,5
+119,Cameron Pena,52,Female,Australia,09/11/2022,22/09/2024,Books,7,26.6,186.17,4
+120,John Calderon,52,Female,Germany,19/02/2018,26/05/2019,Sports,7,41.22,288.51,2
+121,Candice Martinez,50,Female,Canada,11/01/2017,08/01/2022,Beauty,7,78.38,548.67,3
+122,David Jackson,22,Male,Brazil,21/09/2020,08/01/2022,Home & Kitchen,10,281.92,2819.21,4
+123,Krystal Lara,59,Female,Canada,22/04/2021,08/06/2021,Home & Kitchen,8,348.31,2786.46,4
+124,Shawna Johns,56,Male,USA,15/05/2019,22/10/2021,Beauty,5,112.69,563.47,2
+125,Mark Kim,58,Male,Canada,29/01/2021,28/03/2022,Beauty,5,127.75,638.76,4
+126,John Thompson,45,Female,USA,30/01/2018,11/03/2019,Home & Kitchen,4,245.15,980.59,1
+127,Ryan Holt,24,Male,France,23/12/2021,28/01/2022,Books,7,72.01,504.06,5
+128,Susan Poole,26,Male,Australia,05/07/2017,26/12/2023,Electronics,10,381.85,3818.47,1
+129,Angel Stevens,25,Female,USA,01/09/2018,10/04/2019,Electronics,4,864.58,3458.32,4
+130,Ethan Black,29,Male,Germany,27/04/2019,31/03/2020,Beauty,2,124.43,248.86,5
+131,Raymond Walker,51,Male,India,08/04/2018,25/07/2019,Clothing,4,81.52,326.08,2
+132,Amanda Morgan,50,Female,Australia,04/03/2017,06/07/2022,Beauty,8,106.61,852.88,4
+133,Scott Smith,65,Female,USA,08/11/2019,05/08/2022,Beauty,9,110.37,993.3,5
+134,Michele House,40,Male,Australia,10/07/2023,23/12/2023,Electronics,3,945.1,2835.29,3
+135,Paula Singh,41,Female,Brazil,23/02/2023,21/06/2024,Home & Kitchen,7,237.14,1659.95,2
+136,Adrienne Santana,54,Female,Australia,08/05/2024,27/05/2024,Beauty,9,95.39,858.52,3
+137,Mary Sanchez,52,Female,Australia,31/08/2024,14/09/2024,Home & Kitchen,4,423.21,1692.84,4
+138,Jennifer Flores,61,Female,France,20/02/2019,23/03/2024,Home & Kitchen,10,281.59,2815.91,4
+139,Christopher Greene,57,Other,Germany,28/12/2017,16/11/2024,Clothing,3,166.22,498.67,2
+140,Frank Kent,39,Female,UK,11/04/2016,24/06/2016,Home & Kitchen,5,133.69,668.44,4
+141,Sarah Smith,44,Female,UK,05/03/2023,24/01/2024,Electronics,1,407.28,407.28,3
+142,Casey Hunt,52,Female,USA,23/06/2022,26/11/2023,Books,3,6.05,18.14,5
+143,Michael Knapp,18,Male,Australia,10/04/2024,22/10/2024,Books,8,44.58,356.64,3
+144,Jacob Shields,52,Male,USA,16/03/2021,26/09/2022,Sports,8,112.35,898.78,5
+145,Ricardo Hubbard,54,Female,France,27/03/2022,05/12/2023,Beauty,4,45.84,183.37,4
+146,Jessica Summers,64,Female,France,27/06/2023,12/08/2024,Electronics,2,154.09,308.17,5
+147,Christopher Garcia,31,Female,Canada,15/03/2021,21/02/2023,Home & Kitchen,8,28.48,227.85,4
+148,Douglas Johnson,20,Male,Brazil,26/06/2021,24/07/2024,Books,8,89.41,715.29,4
+149,Ryan Howell,18,Female,France,12/09/2024,26/09/2024,Electronics,10,345.74,3457.37,3
+150,Heather Chavez,22,Male,Canada,13/10/2019,21/02/2021,Books,4,18.57,74.28,5
+151,Mary Miller,43,Male,Germany,24/06/2017,21/07/2023,Home & Kitchen,3,265.05,795.15,4
+152,Samuel Thomas,31,Female,USA,19/07/2023,02/08/2024,Books,2,80.05,160.1,4
+153,William Aguirre,56,Female,India,22/10/2018,15/07/2024,Beauty,9,38.82,349.39,4
+154,Tammy Rangel,44,Female,Germany,31/12/2015,20/03/2018,Beauty,1,111.44,111.44,5
+155,Stephanie Lopez,26,Female,France,14/08/2020,26/08/2024,Sports,7,122.56,857.89,4
+156,Lisa Leblanc,32,Male,Germany,29/07/2024,18/09/2024,Sports,5,141.76,708.78,3
+157,Jason Gutierrez,32,Female,Germany,20/05/2023,06/10/2024,Books,8,46.22,369.75,4
+158,Scott Williams,43,Male,Brazil,02/03/2020,25/04/2024,Electronics,4,745.41,2981.63,4
+159,Benjamin Garcia,59,Female,Brazil,13/06/2023,11/07/2023,Beauty,7,140.08,980.54,
+160,Tyler Jackson,30,Female,Brazil,04/02/2016,16/04/2020,Electronics,5,421.09,2105.46,5
+161,Carla Andrade,68,Female,Germany,15/08/2018,30/08/2024,Electronics,5,781.72,3908.59,4
+162,Amy Hawkins,49,Female,France,17/08/2017,24/08/2021,Books,9,54.24,488.16,3
+163,Chelsea Petersen,56,Female,India,18/04/2024,07/09/2024,Electronics,9,368.97,3320.74,5
+164,Jeffrey Perez,66,Female,Australia,23/09/2021,05/04/2022,Beauty,9,125.65,1130.88,4
+165,Sabrina Miller,69,Male,Germany,10/06/2017,23/08/2017,Home & Kitchen,6,412.21,2473.27,
+166,Karen Kim,49,Male,Canada,31/10/2020,13/12/2021,Sports,6,205.86,1235.16,3
+167,Katherine Jennings,21,Male,France,23/02/2021,02/08/2024,Home & Kitchen,5,254.83,1274.17,1
+168,Oscar Torres,47,Male,Germany,12/11/2022,27/09/2024,Electronics,9,643.42,5790.76,1
+169,Jennifer Andrews,54,Female,India,30/01/2022,19/07/2022,Home & Kitchen,10,57.58,575.85,4
+170,Daniel Jones,40,Female,Australia,07/05/2017,17/11/2022,Beauty,8,111.81,894.52,
+171,Rebecca Pruitt,56,Male,Brazil,05/06/2022,02/09/2024,Beauty,7,21.47,150.27,1
+172,Mary Gross,62,Male,France,20/07/2024,04/11/2024,Electronics,7,537.24,3760.65,5
+173,Kimberly Becker,32,Male,UK,20/09/2016,28/12/2021,Books,6,11.13,66.77,4
+174,Stephanie Walters,60,Female,Australia,30/01/2018,12/01/2020,Home & Kitchen,5,477.36,2386.8,5
+175,Rachel Peterson,46,Female,Canada,27/04/2019,29/08/2022,Books,4,56.68,226.73,3
+176,Mallory Branch,53,Male,Germany,22/11/2016,12/10/2022,Books,3,58.18,174.54,5
+177,Richard Best,30,Female,India,10/06/2024,13/11/2024,Clothing,3,173.96,521.87,1
+178,Raymond Roth,49,Female,UK,16/10/2018,24/01/2024,Electronics,6,669.01,4014.09,5
+179,Kristen Howard,,Male,India,04/07/2017,08/12/2019,Sports,4,199.69,798.76,3
+180,Anthony Rodriguez,68,Female,UK,12/11/2018,27/08/2021,Beauty,6,136.6,819.63,4
+181,Richard Parsons,39,Female,France,30/03/2020,25/11/2020,Beauty,3,127.73,383.2,5
+182,Andrea Thomas,45,Male,UK,28/12/2020,20/07/2024,Electronics,4,140.72,562.9,3
+183,Michele Conner,19,Male,Canada,09/07/2017,10/01/2020,Sports,9,100.09,900.78,2
+184,Charles Green,59,Male,Canada,10/01/2020,10/05/2020,Beauty,5,82.61,413.06,4
+185,Kenneth Nguyen,62,Male,USA,30/08/2017,08/12/2022,Electronics,7,623.28,4362.93,4
+186,Nichole Clayton,70,Female,Canada,25/07/2021,01/06/2023,Beauty,10,54.18,541.79,4
+187,Mr. Donald Escobar PhD,23,Female,Australia,22/01/2019,25/01/2020,Books,2,6.43,12.85,3
+188,Jesse Mitchell,45,Male,UK,09/05/2019,19/12/2022,Home & Kitchen,5,65.87,329.34,1
+189,Diana Lewis,45,Male,Canada,29/12/2020,11/10/2022,Home & Kitchen,9,451.11,4059.99,4
+190,Carla Lewis,61,Male,France,09/12/2021,20/04/2022,Beauty,3,55.93,167.79,2
+191,Richard Ryan,61,Male,India,26/01/2021,12/12/2023,Clothing,9,45.13,406.21,
+192,Edward James,37,Female,Brazil,10/06/2023,21/04/2024,Sports,6,97.16,582.99,1
+193,Ann Oliver,47,Male,India,21/06/2017,27/10/2022,Sports,4,196.96,787.84,4
+194,Howard Hernandez,28,Male,USA,02/03/2018,10/10/2023,Sports,7,96.74,677.2,1
+195,James Patel,45,Male,India,16/03/2020,10/10/2021,Books,8,43,344.02,1
+196,Mark Johnson,42,Female,UK,26/07/2020,27/07/2021,Sports,6,128.89,773.31,4
+197,Frank Cervantes,56,Male,USA,14/06/2019,09/08/2022,Home & Kitchen,5,105.13,525.64,4
+198,Vincent Macdonald,50,Female,UK,03/12/2023,19/08/2024,Books,6,86.88,521.27,1
+199,Denise Hughes,18,Male,France,17/03/2021,29/10/2022,Electronics,5,182.95,914.76,1
+200,Karen Ball,44,Female,USA,27/02/2016,20/03/2018,Sports,8,126.71,1013.69,1
+201,Corey Hogan,,Female,Germany,23/01/2018,19/05/2020,Sports,1,90.13,90.13,5
+202,Ian Washington,30,Male,Australia,12/08/2017,28/03/2018,Electronics,7,906.13,6342.9,4
+203,Brooke Stevens,58,Male,Australia,04/06/2021,19/01/2023,Sports,10,187.02,1870.21,1
+204,Jennifer Padilla,20,Female,UK,11/10/2020,28/12/2021,Electronics,10,729.73,7297.35,4
+205,Andrea Steele,56,Female,India,18/07/2018,10/06/2021,Books,2,29.68,59.36,5
+206,Mrs. Melissa Christensen,23,Male,Brazil,22/01/2024,16/02/2024,Home & Kitchen,9,322.48,2902.36,5
+207,Damon Nichols,25,Female,Brazil,04/02/2018,17/01/2024,Electronics,1,300.76,300.76,
+208,Kyle Robinson,44,Female,Germany,11/06/2018,01/09/2020,Clothing,10,184,1840.03,3
+209,John Davis,26,Female,USA,26/09/2017,05/03/2023,Electronics,6,810.54,4863.26,2
+210,Danielle Best,54,Male,Germany,19/07/2018,09/01/2023,Sports,9,91.77,825.91,3
+211,Stacey Garza,50,Female,Germany,22/03/2016,04/10/2020,Books,1,60.08,60.08,5
+212,Joseph Fox,68,Male,India,11/01/2016,03/11/2024,Beauty,4,54.15,216.62,
+213,Marissa Carter,59,Female,Brazil,11/08/2024,25/09/2024,Books,4,39.7,158.79,4
+214,Yvette Smith,61,Male,USA,15/04/2024,30/10/2024,Beauty,9,85.06,765.57,3
+215,Rhonda Parks,41,Male,France,11/01/2024,31/01/2024,Electronics,5,128.6,643,4
+216,Ashlee Moody,32,Male,India,06/12/2018,07/07/2024,Home & Kitchen,5,64.41,322.07,3
+217,Cody Dean,49,Female,Germany,07/12/2015,24/05/2024,Clothing,6,42.66,255.94,3
+218,Laurie Alexander,49,Male,Germany,25/05/2023,10/10/2023,Books,1,83.31,83.31,4
+219,Jasmine Buckley,41,Male,France,02/01/2020,29/09/2021,Sports,1,255.65,255.65,1
+220,Joshua Collier,58,Male,Germany,09/01/2017,16/05/2021,Beauty,9,101.66,914.93,3
+221,Maria Alexander,69,Female,Germany,07/03/2022,26/05/2022,Sports,3,133.34,400.01,4
+222,Kara Washington,66,Other,Germany,03/07/2020,29/05/2023,Home & Kitchen,4,86.11,344.45,1
+223,Terri Crosby,66,Male,Australia,19/05/2024,30/07/2024,Beauty,1,10.3,10.3,1
+224,Jennifer Long,69,Female,India,15/08/2019,13/07/2022,Books,9,81.72,735.44,3
+225,David Brown,29,Female,Canada,26/01/2020,09/12/2022,Electronics,8,224.1,1792.77,5
+226,Andrew Burke,56,Female,India,16/12/2017,26/01/2020,Sports,2,182.19,364.39,5
+227,Jonathan Aguilar,19,Male,France,01/11/2023,04/10/2024,Home & Kitchen,8,369.19,2953.51,1
+228,Johnny Cole PhD,20,Male,Germany,26/08/2020,05/03/2024,Books,7,93.9,657.27,4
+229,Francisco Moody,66,Male,India,15/04/2016,14/10/2020,Books,6,61.77,370.64,3
+230,Tyler Wright,54,Male,Australia,15/03/2018,02/03/2024,Books,1,81.9,81.9,4
+231,Kristen Harvey,66,Male,Brazil,02/02/2017,19/01/2018,Books,7,81.01,567.1,5
+232,Christine Raymond,34,Female,France,16/05/2024,04/09/2024,Beauty,10,48.72,487.16,5
+233,Kimberly Johnson,66,Male,UK,28/11/2016,23/05/2017,Books,7,78.17,547.2,4
+234,Kathleen Potts,19,Male,India,12/03/2024,03/08/2024,Sports,9,173.67,1563.02,
+235,Ashley Martin DDS,19,Female,UK,27/07/2024,20/09/2024,Home & Kitchen,1,193.19,193.19,
+236,Kimberly Stewart,45,Male,Germany,01/07/2020,01/02/2024,Beauty,2,65.42,130.84,5
+237,Amy Robinson,40,Female,Australia,22/10/2023,08/06/2024,Books,9,54.17,487.55,4
+238,Joy Russo,54,Female,Australia,28/10/2024,05/11/2024,Clothing,9,46.91,422.21,3
+239,John Robertson,49,Male,India,24/10/2019,09/12/2020,Clothing,6,94.97,569.81,3
+240,Stephen Barnes II,50,Female,France,24/01/2023,30/08/2024,Home & Kitchen,6,163.94,983.64,1
+241,Brianna Stephens,18,Female,France,08/02/2017,27/04/2019,Electronics,4,225.64,902.56,3
+242,Michelle Mathis,36,Female,Australia,28/03/2017,05/02/2024,Electronics,4,618.83,2475.3,5
+243,Miss Emily Hendricks,19,Female,France,18/12/2017,10/03/2024,Beauty,5,6.2,30.99,4
+244,Kyle Stone,70,Female,Australia,15/04/2024,02/09/2024,Beauty,3,118.09,354.28,
+245,Eric Cox,61,Female,India,03/10/2022,14/05/2023,Beauty,1,101.66,101.66,1
+246,Kim Huff,43,Male,Canada,05/12/2019,06/12/2023,Electronics,1,283.82,283.82,2
+247,William Brown,49,Male,Australia,25/06/2023,28/12/2023,Clothing,7,51.9,363.28,5
+248,Sean Ward,23,Male,UK,13/10/2022,21/02/2024,Electronics,1,711.28,711.28,3
+249,Paula Jones,49,Female,France,13/09/2019,18/09/2022,Sports,1,149.26,149.26,2
+250,Stacy Harris,21,Male,Australia,15/12/2016,28/07/2020,Books,3,60.63,181.9,
+251,Peter Parsons,28,Female,Australia,05/08/2016,06/01/2022,Beauty,10,48.35,483.47,5
+252,Julia Moore,34,Female,India,22/10/2019,03/10/2021,Clothing,4,194.23,776.91,4
+253,Marissa Garrison,55,Female,France,12/08/2022,25/08/2022,Home & Kitchen,4,33.82,135.3,5
+254,Lindsey Stephens,41,Other,Canada,12/07/2022,14/07/2022,Home & Kitchen,2,328.99,657.97,4
+255,Benjamin Rojas,22,Female,India,22/10/2017,17/04/2023,Books,1,36.44,36.44,5
+256,Ashley Gray,69,Female,Canada,26/05/2021,15/01/2023,Clothing,3,32.01,96.02,5
+257,Tonya Anderson,51,Male,Brazil,18/12/2017,01/10/2020,Electronics,4,398.9,1595.6,1
+258,Dawn Lester,,Female,India,24/10/2020,10/03/2021,Electronics,3,935.29,2805.87,4
+259,Riley Rodriguez,39,Male,France,11/12/2021,03/07/2024,Sports,8,275.14,2201.16,1
+260,Brittany Day,28,Male,USA,27/03/2016,28/03/2021,Sports,10,48.73,487.33,1
+261,Kevin Rhodes,65,Female,France,24/06/2017,23/01/2021,Electronics,1,315.23,315.23,
+262,Debra Caldwell,33,Female,France,30/08/2022,23/11/2023,Home & Kitchen,2,112.33,224.65,4
+263,Stephen Allen,50,Male,Canada,20/05/2022,24/02/2023,Beauty,7,25.9,181.33,5
+264,Erik Robinson,26,Female,Canada,02/12/2022,28/08/2023,Home & Kitchen,4,338.88,1355.53,5
+265,Jonathan Foster,23,Female,France,08/09/2023,06/07/2024,Sports,8,53.54,428.35,
+266,Ms. Tanya Ross,33,Female,France,21/08/2021,31/10/2021,Books,3,53.28,159.83,5
+267,Erika Quinn,46,Female,France,19/12/2021,27/11/2023,Electronics,6,308.33,1849.99,4
+268,Michael Hicks,20,Female,Canada,09/12/2021,02/03/2022,Sports,9,203.51,1831.61,3
+269,Ashley Rodriguez,37,Other,France,23/12/2016,03/04/2024,Sports,1,266.34,266.34,2
+270,Kathy Mooney,53,Female,France,31/05/2018,11/11/2020,Beauty,1,70.86,70.86,4
+271,Stephanie Acosta,36,Female,Brazil,24/11/2016,13/02/2022,Electronics,8,387.69,3101.49,3
+272,Mark Mclaughlin,43,Other,Germany,01/01/2017,27/06/2024,Beauty,3,126.16,378.47,4
+273,Erin Wagner,20,Female,USA,29/06/2024,29/10/2024,Electronics,5,909.33,4546.67,4
+274,Angela Garrett,36,Male,UK,14/06/2017,28/01/2021,Beauty,1,124.51,124.51,
+275,Pamela Brown,37,Male,USA,01/09/2021,21/07/2023,Home & Kitchen,5,89.85,449.24,5
+276,Mr. Scott Murphy,49,Male,Germany,04/02/2023,15/11/2023,Books,6,72.94,437.63,4
+277,Joshua Cruz,24,Male,UK,14/08/2023,06/09/2023,Books,8,34.92,279.36,3
+278,Catherine Jackson,69,Female,India,21/12/2018,17/01/2022,Electronics,3,584,1752.01,1
+279,Tracy Allen,58,Female,France,04/06/2020,14/09/2020,Clothing,3,140.87,422.62,3
+280,Martin Jacobson,50,Female,Germany,04/09/2021,05/12/2022,Sports,10,185.92,1859.16,5
+281,Michelle Hopkins,57,Male,Brazil,05/08/2020,01/05/2023,Sports,9,236.3,2126.69,3
+282,Arthur Salas,56,Female,India,02/11/2021,25/05/2024,Electronics,4,600.7,2402.78,5
+283,Jeffery Alvarez,35,Female,France,10/09/2024,14/11/2024,Beauty,4,19.27,77.09,4
+284,Jennifer Ramos,57,Female,Canada,01/12/2019,30/09/2023,Clothing,7,134.98,944.83,2
+285,Dana Wang,18,Female,Australia,02/06/2016,04/07/2021,Home & Kitchen,2,306.86,613.73,3
+286,Teresa Lang,,Female,Germany,16/12/2016,29/11/2020,Beauty,8,27.3,218.44,4
+287,Clayton Peterson,45,Male,Canada,12/03/2018,06/07/2021,Beauty,6,120.05,720.29,4
+288,Cody Spears,42,Female,Germany,04/04/2022,16/07/2024,Electronics,3,739.1,2217.31,5
+289,Edward Austin,67,Male,Brazil,25/08/2019,26/12/2021,Electronics,9,186.16,1675.41,5
+290,George Alexander,40,Male,Germany,07/09/2023,20/10/2024,Sports,5,133.56,667.79,4
+291,George Oneal,48,Female,Canada,01/07/2020,22/07/2024,Electronics,8,971.81,7774.46,5
+292,Brenda Hensley,47,Male,Brazil,10/10/2023,18/09/2024,Electronics,7,336.11,2352.76,4
+293,Jamie Roberts,59,Female,UK,16/03/2023,21/01/2024,Electronics,8,381.75,3053.96,
+294,Gail Jenkins,52,Male,USA,26/12/2018,16/03/2020,Sports,7,175.8,1230.57,3
+295,Pamela Thomas,24,Female,France,08/10/2016,30/11/2021,Home & Kitchen,3,231.92,695.77,5
+296,Diana Brock,33,Male,Germany,30/05/2016,28/12/2018,Home & Kitchen,2,82.72,165.45,3
+297,Jillian Trevino,43,Other,France,25/07/2024,04/09/2024,Electronics,7,441.66,3091.59,3
+298,Mrs. Stephanie Shah,65,Female,Australia,14/08/2024,02/11/2024,Sports,3,284.32,852.95,2
+299,Samantha Lawrence,69,Male,Canada,31/05/2022,05/05/2023,Home & Kitchen,3,454.14,1362.41,4
+300,Jennifer Norton,66,Female,France,15/04/2022,24/04/2023,Beauty,2,31.78,63.57,3
+301,Tyler Thomas,19,Other,Canada,22/05/2023,15/08/2024,Home & Kitchen,4,305.19,1220.74,3
+302,Kimberly Brown,18,Male,France,14/04/2023,15/10/2024,Home & Kitchen,8,365.26,2922.11,
+303,James Hess,65,Male,USA,17/12/2016,28/06/2022,Sports,1,36.43,36.43,5
+304,Wesley Hughes,29,Female,USA,03/10/2023,10/08/2024,Beauty,1,48.24,48.24,5
+305,David Shelton,22,Female,Brazil,06/12/2023,19/09/2024,Sports,5,152.66,763.29,5
+306,Patrick Smith,54,Female,USA,25/08/2022,07/11/2023,Electronics,5,904.24,4521.18,
+307,William Mejia,49,Female,Brazil,13/06/2022,14/09/2023,Books,1,15.96,15.96,4
+308,Pam Brown,26,Male,USA,05/08/2022,30/01/2023,Home & Kitchen,6,242.34,1454.01,3
+309,Melissa Ferguson,58,Male,USA,04/06/2022,18/09/2022,Books,1,55.29,55.29,5
+310,Timothy Martin,52,Female,USA,11/09/2024,03/11/2024,Sports,5,131.27,656.35,5
+311,Xavier Holmes,36,Male,Canada,09/01/2019,23/12/2019,Sports,9,107.5,967.48,4
+312,David Ross,65,Male,Germany,26/05/2017,04/11/2019,Sports,5,237.78,1188.9,4
+313,Dr. Andrew Ford,33,Female,Brazil,25/05/2016,01/01/2024,Books,6,64.74,388.46,4
+314,Brenda Griffin,20,Female,France,19/07/2020,08/10/2021,Sports,8,151.41,1211.31,
+315,Amy Glass,37,Female,USA,20/08/2023,17/10/2023,Electronics,1,324.55,324.55,3
+316,James Reyes,41,Female,Canada,05/08/2024,14/09/2024,Sports,2,103.22,206.45,
+317,Sarah Richards,50,Female,Canada,30/05/2016,23/08/2017,Clothing,9,120.5,1084.47,
+318,Stephanie Turner,41,Female,Canada,11/06/2016,02/05/2018,Books,3,81.11,243.33,4
+319,Philip Marquez,69,Female,Brazil,15/09/2021,13/04/2022,Clothing,6,55.64,333.85,4
+320,Carol Tran,28,Male,Germany,17/12/2020,05/02/2022,Sports,5,244.62,1223.09,3
+321,Timothy Hernandez,66,Male,Brazil,20/10/2022,04/11/2023,Electronics,2,603.46,1206.93,1
+322,Lisa Booker,25,Female,France,05/02/2018,13/08/2023,Home & Kitchen,7,468.12,3276.83,2
+323,Brittany Rodriguez,53,Female,Germany,02/01/2023,11/01/2024,Beauty,4,121.73,486.91,5
+324,Charles Maxwell,55,Male,UK,16/06/2016,12/07/2023,Beauty,1,7.83,7.83,4
+325,Jessica Rivera,57,Male,India,30/04/2020,06/09/2024,Sports,4,188.57,754.29,2
+326,Wendy Richards,37,Male,Canada,08/10/2023,11/12/2023,Electronics,6,310.51,1863.04,3
+327,Joseph Benjamin,52,Male,Brazil,08/08/2021,21/06/2024,Books,7,68.87,482.1,
+328,Danielle Williams,65,Female,UK,26/01/2018,12/09/2018,Clothing,7,179.14,1254.01,3
+329,Amber West,42,Male,Australia,18/08/2024,07/09/2024,Clothing,7,31.83,222.83,
+330,Kathryn Walker,52,Female,Brazil,27/05/2017,28/09/2022,Clothing,3,10.73,32.19,3
+331,Bryce Newton,42,Female,USA,16/02/2020,10/09/2021,Books,6,87.27,523.63,4
+332,Christopher Wilson,46,Female,India,15/03/2022,29/12/2023,Beauty,8,126.68,1013.46,1
+333,Elijah Barker,35,Female,,06/11/2022,12/04/2024,Electronics,4,657.41,2629.64,4
+334,Erica Everett,63,Male,,26/09/2022,22/06/2023,Books,8,88.4,707.16,4
+335,Russell Stokes,35,Female,India,05/05/2021,11/04/2022,Clothing,2,69.67,139.34,3
+336,Kristie Watson,19,Male,Brazil,25/01/2022,27/06/2023,Sports,10,195.54,1955.37,4
+337,Richard Harris,52,Male,France,26/09/2017,14/06/2018,Home & Kitchen,9,486.97,4382.69,4
+338,Jenny Williams,33,Female,UK,04/02/2018,14/01/2021,Books,9,31.77,285.93,4
+339,Diana Hinton,58,Male,France,06/01/2019,30/03/2019,Books,8,73.59,588.71,5
+340,Lauren Davis,53,Male,Brazil,07/01/2017,06/03/2019,Electronics,10,374.04,3740.43,3
+341,Julie Knight,50,Female,Germany,18/02/2017,17/05/2024,Electronics,10,278.29,2782.86,4
+342,Kenneth Castillo,21,Male,USA,31/08/2018,10/09/2020,Books,1,53.6,53.6,
+343,Trevor Brown,50,Female,India,07/11/2021,17/12/2022,Clothing,2,128.61,257.21,5
+344,Kristine Johnson,31,Male,France,04/06/2021,11/09/2022,Home & Kitchen,6,125.94,755.61,
+345,James Martin,38,Female,Brazil,01/11/2018,22/02/2024,Electronics,10,547.21,5472.06,3
+346,Suzanne Gonzalez,65,Female,France,13/04/2020,07/04/2022,Clothing,5,184.27,921.36,5
+347,Wendy Mueller,37,Female,Brazil,23/08/2023,23/04/2024,Sports,9,115.14,1036.29,4
+348,Richard Jensen,25,Female,USA,02/09/2017,12/04/2019,Electronics,5,217.45,1087.26,1
+349,Noah Berry,24,Male,India,29/10/2018,10/12/2022,Clothing,2,91.86,183.73,5
+350,Alexis Hartman,20,Female,UK,20/02/2018,02/12/2023,Clothing,10,69.32,693.16,4
+351,Melissa Zhang,34,Male,,29/07/2017,04/11/2018,Home & Kitchen,4,119.26,477.05,2
+352,Paul Parker,50,Female,France,04/01/2020,20/10/2024,Home & Kitchen,9,464.03,4176.28,1
+353,Donald Phillips,65,Male,UK,06/04/2019,01/03/2023,Sports,1,74.72,74.72,5
+354,Joshua Watts,29,Female,Brazil,04/05/2019,30/01/2021,Clothing,1,197.3,197.3,1
+355,Taylor Barrera,68,Male,UK,05/10/2024,22/10/2024,Beauty,7,43.59,305.15,1
+356,Jamie Wright,39,Female,Brazil,19/06/2020,13/08/2022,Clothing,3,124.26,372.79,4
+357,Joseph Blackwell,,Female,USA,05/06/2016,05/11/2018,Home & Kitchen,10,149.05,1490.51,2
+358,Samantha Lewis,63,Female,France,15/10/2017,27/12/2023,Beauty,2,148.13,296.25,
+359,Kelly Silva,47,Male,Germany,13/11/2018,28/10/2021,Electronics,9,169.13,1522.14,4
+360,Sarah Bradley,55,Female,France,08/07/2018,03/12/2021,Electronics,3,311.49,934.48,4
+361,Vincent Davis,55,Male,Brazil,26/06/2019,12/05/2021,Books,2,28.08,56.16,
+362,Alexander Poole,62,Male,Canada,31/03/2016,24/05/2021,Home & Kitchen,8,332.05,2656.43,4
+363,Jason Martinez,68,Male,India,12/02/2023,02/07/2024,Books,10,13.85,138.45,3
+364,David Johnson,25,Male,Australia,24/08/2020,05/07/2023,Beauty,6,117.15,702.92,5
+365,Denise Mccormick,44,Female,Germany,02/07/2021,04/07/2024,Home & Kitchen,6,78.37,470.22,4
+366,Loretta Wiley,44,Female,UK,03/10/2016,03/10/2017,Sports,10,275.42,2754.23,3
+367,Andrew George,51,Male,Germany,26/05/2023,05/11/2023,Clothing,7,127.65,893.54,5
+368,Rachel Campbell,38,Male,India,18/06/2019,01/09/2022,Sports,7,299.93,2099.48,5
+369,Linda Serrano,47,Male,UK,10/04/2020,02/04/2023,Beauty,6,54.43,326.57,5
+370,Ann Hale,50,Male,India,06/03/2023,11/10/2023,Home & Kitchen,4,75.56,302.26,
+371,Kent Peterson,45,Other,UK,16/05/2022,30/01/2023,Beauty,9,32.84,295.6,5
+372,Chad Perez,64,Male,Germany,01/10/2023,11/10/2024,Clothing,6,123.32,739.93,5
+373,Corey Martinez,50,Male,UK,22/04/2023,05/01/2024,Electronics,4,758.04,3032.17,5
+374,Kenneth Merritt,22,Male,UK,15/05/2017,15/03/2022,Electronics,3,952.08,2856.24,1
+375,Jack Daniels,65,Female,Canada,24/09/2024,17/10/2024,Beauty,4,117.4,469.59,3
+376,Joshua Hardin,36,Other,France,18/04/2018,16/10/2021,Books,3,70.67,212.02,5
+377,Teresa Taylor,21,Female,France,09/10/2018,01/09/2023,Home & Kitchen,2,350.81,701.61,4
+378,Luke Dean,52,Female,Australia,29/04/2023,07/07/2024,Home & Kitchen,5,183.91,919.53,2
+379,Kathryn Castro,66,Female,Australia,11/04/2022,13/10/2024,Electronics,2,427.7,855.4,3
+380,Ryan Mcdonald,34,Male,Brazil,22/10/2016,04/05/2019,Sports,6,81.69,490.15,3
+381,Timothy Kelly,61,Female,Brazil,23/04/2017,12/07/2019,Clothing,3,66.94,200.81,4
+382,Juan Chambers,45,Female,Brazil,19/04/2017,15/01/2020,Sports,6,88.88,533.26,5
+383,Donald Mcgee,47,Female,Canada,08/03/2016,03/02/2021,Sports,10,20.39,203.94,
+384,Joseph Sullivan,46,Female,Australia,03/03/2020,05/11/2024,Beauty,9,43.47,391.23,5
+385,Leah Hanson,63,Female,India,26/06/2018,22/01/2020,Electronics,1,776.31,776.31,5
+386,Mitchell Ramirez,70,Female,Brazil,30/07/2021,18/03/2024,Electronics,6,218.77,1312.61,4
+387,Mr. Andrew Rodgers,23,Other,Brazil,21/08/2019,01/04/2020,Electronics,9,561.86,5056.78,3
+388,Joshua Nelson,52,Female,Germany,24/05/2019,10/03/2023,Beauty,4,104.67,418.68,3
+389,James Kennedy,58,Female,USA,03/07/2018,29/05/2022,Books,2,17.58,35.17,4
+390,Mr. Adam Johnson,54,Female,India,02/01/2019,10/05/2021,Sports,4,244.35,977.39,2
+391,Robert Torres DVM,41,Male,Brazil,29/01/2024,24/02/2024,Beauty,1,115.16,115.16,4
+392,Anthony Welch,46,Female,Brazil,27/08/2022,10/06/2023,Home & Kitchen,3,491.77,1475.32,4
+393,Vanessa Daniels,66,Male,Brazil,03/11/2021,11/09/2022,Clothing,10,83.66,836.62,4
+394,Paul Castillo,63,Female,USA,01/05/2024,14/05/2024,Books,9,35.94,323.48,
+395,Jeremy Harvey,70,Other,USA,23/05/2021,03/01/2024,Home & Kitchen,10,143.73,1437.34,4
+396,Erin Baxter,48,Female,Canada,16/07/2018,01/04/2022,Sports,5,107.08,535.38,3
+397,Megan Garcia,52,Male,India,14/07/2016,08/07/2020,Electronics,6,273.92,1643.55,4
+398,Dawn Rogers,50,Male,Canada,27/08/2021,20/12/2022,Sports,3,99.84,299.51,4
+399,Rebecca Rivera,69,Male,UK,28/07/2017,11/04/2018,Beauty,5,79.32,396.62,3
+400,Melanie Sharp,38,Female,USA,17/03/2022,10/11/2024,Clothing,8,172.55,1380.44,1
+401,Gregory Kelly,49,Male,Germany,14/12/2015,28/07/2021,Beauty,6,98.14,588.82,4
+402,Ashley Gilbert,40,Male,Australia,16/03/2018,07/03/2022,Books,4,38.13,152.53,
+403,Amanda Schwartz,50,Male,Germany,30/10/2022,13/12/2022,Books,2,70.92,141.84,4
+404,Jennifer Ochoa,20,Female,Australia,26/03/2016,13/02/2019,Clothing,9,107.98,971.81,
+405,Lydia Perry,35,Female,USA,09/09/2018,13/03/2019,Home & Kitchen,1,340.32,340.32,5
+406,Tiffany Atkins,42,Male,USA,06/09/2017,16/05/2018,Home & Kitchen,1,80.28,80.28,2
+407,Dustin Hogan,59,Male,USA,22/04/2016,06/06/2021,Books,4,48.28,193.14,5
+408,Patricia Perry,48,Female,Canada,07/08/2016,12/03/2020,Books,7,72.05,504.33,4
+409,Peggy Ayala,20,Female,India,12/12/2017,06/12/2019,Electronics,1,597.49,597.49,3
+410,Terry Castro,57,Female,Australia,15/06/2019,06/08/2019,Home & Kitchen,9,413.23,3719.09,4
+411,Katie Goodwin,63,Male,India,06/02/2022,15/11/2023,Clothing,4,46.43,185.72,5
+412,Brandon Williams,41,Female,Canada,08/09/2019,22/07/2024,Home & Kitchen,3,432.77,1298.31,2
+413,Brooke Sanchez,67,Female,Canada,01/06/2019,29/09/2022,Electronics,1,919.72,919.72,
+414,Scott Mullins,49,Female,France,18/05/2022,08/12/2023,Beauty,10,128.56,1285.61,5
+415,Jason Garcia,64,Female,Germany,01/10/2021,02/02/2023,Books,4,41.78,167.13,
+416,Erik Blackburn,39,Male,Germany,09/08/2020,03/12/2022,Books,9,37.88,340.92,3
+417,Christopher Walker,40,Male,UK,07/03/2020,07/11/2022,Electronics,10,466.94,4669.44,
+418,Brooke Moore,19,Female,Brazil,30/04/2016,28/05/2019,Clothing,6,139.27,835.64,3
+419,Barry Snow,,Female,Canada,30/05/2021,22/12/2022,Books,6,69.21,415.26,1
+420,Charles Miller,59,Female,Australia,17/04/2018,14/03/2019,Sports,1,31.1,31.1,5
+421,Joseph Smith,19,Female,France,02/01/2019,07/12/2020,Books,10,6.47,64.72,5
+422,Jason Chen,43,Female,France,07/07/2020,23/02/2022,Sports,2,255.27,510.53,4
+423,Stacey Moore,34,Female,Brazil,15/06/2024,07/10/2024,Electronics,6,822.57,4935.4,4
+424,Jessica Garcia,57,Male,India,17/05/2024,18/05/2024,Electronics,2,321.87,643.74,1
+425,Amy Fox,50,Female,Brazil,30/04/2016,28/06/2017,Books,3,7,21,4
+426,Jared Huff,26,Male,Brazil,01/08/2018,14/03/2022,Home & Kitchen,4,435.9,1743.59,4
+427,Julie James,60,Male,Brazil,02/01/2021,01/02/2023,Sports,5,243.93,1219.65,4
+428,Nathan Juarez,65,Other,Germany,04/03/2018,16/02/2023,Clothing,9,168.94,1520.47,4
+429,Courtney Martinez,56,Male,Canada,06/02/2017,24/12/2020,Books,4,89.95,359.79,
+430,Kevin White,46,Male,UK,14/07/2017,16/04/2019,Clothing,9,186.43,1677.9,4
+431,Sara Ponce,59,Male,Canada,06/05/2024,14/10/2024,Books,10,75.3,753.02,5
+432,Keith Terry,43,Female,India,11/03/2016,01/07/2022,Home & Kitchen,3,20.3,60.9,
+433,Christopher Farrell,52,Male,USA,30/01/2018,29/09/2021,Home & Kitchen,8,482.29,3858.28,4
+434,Robert Baird,67,Male,Brazil,13/04/2022,28/07/2023,Home & Kitchen,1,460.42,460.42,1
+435,Hannah Mcfarland,42,Male,Canada,03/01/2022,23/01/2024,Beauty,9,131.52,1183.71,1
+436,Michael Reilly,41,Male,India,06/01/2020,20/05/2023,Home & Kitchen,9,57.96,521.61,5
+437,Jennifer Roach,30,Male,USA,13/08/2017,17/10/2017,Electronics,10,140.77,1407.65,3
+438,Thomas Wall,24,Male,USA,20/08/2022,08/03/2024,Electronics,2,690.75,1381.49,4
+439,Russell Russell,53,Female,Brazil,15/04/2019,05/12/2021,Beauty,4,23.14,92.55,3
+440,Jonathon Elliott,62,Male,UK,10/09/2022,07/03/2024,Sports,8,31.95,255.61,3
+441,Heather Peterson,37,Male,Australia,09/09/2017,06/08/2018,Clothing,7,164.2,1149.39,4
+442,Andrew Johnson,18,Male,Germany,31/10/2019,03/09/2022,Books,1,29.64,29.64,
+443,Andrea Johnson,,Male,Canada,08/07/2018,01/12/2018,Books,5,65.43,327.16,4
+444,Michele Ortiz,63,Female,USA,24/08/2020,23/04/2022,Beauty,7,8.15,57.06,
+445,Crystal Baker,33,Female,Canada,16/04/2022,20/12/2022,Electronics,4,554.16,2216.63,
+446,Emily Jones,31,Male,Australia,29/04/2017,28/08/2022,Books,1,92.11,92.11,3
+447,Jennifer Walker,29,Male,Germany,30/11/2018,06/03/2022,Electronics,9,252.16,2269.4,3
+448,Brian Martinez,68,Male,Australia,16/10/2019,06/10/2021,Sports,5,246.39,1231.94,5
+449,Michael Rivers,40,Female,Germany,16/08/2017,19/10/2017,Clothing,2,33.58,67.16,5
+450,Jon Petersen,32,Female,France,31/12/2019,29/05/2021,Sports,8,30.04,240.29,4
+451,Ryan Miller,45,Female,Germany,01/09/2020,23/04/2023,Beauty,2,25.05,50.1,
+452,Nathan Valdez,51,Male,Brazil,05/10/2021,21/10/2024,Home & Kitchen,3,158.79,476.36,1
+453,Alexis Taylor,19,Female,UK,21/01/2018,11/03/2019,Home & Kitchen,10,236.62,2366.17,3
+454,Daniel Hess,49,Male,Australia,20/06/2016,05/02/2024,Home & Kitchen,1,76.15,76.15,4
+455,Michael Ward,40,Male,USA,09/03/2021,09/09/2023,Sports,2,227.08,454.15,4
+456,Andrew Parks,39,Male,Brazil,24/07/2023,29/12/2023,Books,7,70.38,492.67,2
+457,Joanna Miller,68,Male,France,03/04/2018,05/08/2024,Clothing,10,87.5,874.99,3
+458,Brian Maldonado,42,Female,UK,08/02/2024,11/05/2024,Home & Kitchen,2,57.89,115.77,1
+459,Hannah Gay,39,Female,Canada,19/01/2021,08/10/2023,Beauty,6,148.8,892.78,4
+460,Rebecca Jones,39,Male,Brazil,17/10/2020,24/04/2021,Beauty,3,139.5,418.49,5
+461,Jasmine Rubio,66,Female,Australia,01/09/2022,23/10/2022,Home & Kitchen,4,193.51,774.06,5
+462,Donna Juarez,69,Other,India,24/06/2016,09/06/2020,Home & Kitchen,8,192.19,1537.51,4
+463,Alex Schmitt,59,Female,India,16/10/2023,15/04/2024,Clothing,3,157.14,471.42,4
+464,Patrick Woodard,23,Female,USA,30/01/2021,26/11/2021,Home & Kitchen,10,300.51,3005.1,4
+465,Luke Glass,32,Female,Germany,07/08/2022,17/01/2024,Clothing,6,106.27,637.62,2
+466,Nicole Miller,60,Other,USA,06/02/2020,23/09/2024,Beauty,1,56.88,56.88,3
+467,Aaron Smith,54,Female,India,17/06/2016,27/04/2018,Home & Kitchen,7,406.62,2846.37,2
+468,Mary Hoffman,50,Male,Canada,21/06/2022,26/01/2024,Sports,8,198.19,1585.52,5
+469,Christopher Wells,25,Male,France,30/12/2018,08/07/2023,Sports,8,108.41,867.32,
+470,Penny King,70,Female,France,13/04/2022,29/04/2022,Beauty,3,89.25,267.76,4
+471,Helen Williams,61,Male,Australia,01/01/2021,12/06/2022,Clothing,10,179.75,1797.47,5
+472,Brenda Nunez,61,Female,France,07/12/2022,10/10/2023,Sports,1,138.54,138.54,2
+473,Lauren Simpson,22,Male,Australia,28/04/2019,27/07/2022,Clothing,9,64.7,582.27,4
+474,Mark Reed,56,Male,Brazil,14/02/2021,06/02/2023,Sports,6,282.35,1694.07,5
+475,Rachel George,21,Male,Australia,04/06/2020,15/10/2024,Sports,9,58.64,527.79,4
+476,Sarah Sosa,23,Male,Brazil,14/10/2016,24/10/2020,Clothing,7,173.87,1217.11,3
+477,Shane Hunter,62,Female,Australia,06/02/2016,01/05/2023,Books,1,41.87,41.87,5
+478,Steven Haas,49,Female,India,25/02/2024,19/04/2024,Sports,1,248.78,248.78,5
+479,William Jacobs,69,Female,India,18/07/2017,19/12/2020,Home & Kitchen,6,489.6,2937.59,5
+480,Elizabeth Drake,47,Female,Germany,27/10/2020,16/02/2022,Beauty,5,129.36,646.8,5
+481,Mathew Moreno,64,Male,Brazil,11/07/2023,30/05/2024,Books,9,6.27,56.47,
+482,Brittany Keith,52,Female,UK,07/01/2023,13/02/2023,Clothing,2,21.99,43.98,2
+483,Christopher Rose,57,Female,Brazil,04/08/2021,06/11/2022,Books,8,97.43,779.45,1
+484,Alexander Peterson,69,Female,Australia,03/02/2024,14/07/2024,Electronics,5,789.25,3946.23,3
+485,Amy Reyes,33,Male,Australia,02/10/2022,28/01/2023,Electronics,2,104.86,209.73,2
+486,Carl Shaffer,30,Female,UK,25/05/2018,06/07/2018,Sports,10,173.22,1732.21,4
+487,William Burns,67,Female,USA,14/02/2020,14/09/2021,Sports,6,223.17,1339.01,4
+488,Brandon Whitaker,59,Other,Australia,27/05/2024,24/07/2024,Home & Kitchen,10,159.37,1593.74,4
+489,Erik Guzman,47,Female,Germany,17/01/2019,29/07/2023,Beauty,8,140.35,1122.79,3
+490,Debra Jones,36,Male,,21/08/2021,03/09/2023,Books,4,5.85,23.42,
+491,Alexander Collins,34,Female,France,03/06/2020,23/01/2021,Electronics,2,948.76,1897.51,1
+492,Alex Nelson,36,Female,Canada,26/08/2016,09/01/2024,Sports,5,236.64,1183.19,3
+493,Frank Bailey,45,Male,Canada,01/07/2020,09/01/2023,Beauty,2,113.42,226.85,5
+494,Jennifer Schmidt,43,Female,France,06/03/2016,11/04/2022,Books,2,33.28,66.56,5
+495,Adam Coleman,54,Female,France,17/05/2016,18/02/2023,Sports,6,142.66,855.98,4
+496,Brittany Walker,43,Male,India,09/10/2018,25/08/2021,Sports,10,166.18,1661.85,1
+497,Holly Henry,70,Male,Germany,01/03/2019,28/03/2019,Electronics,9,291.1,2619.91,4
+498,Jonathan Harrison,40,Male,,03/12/2021,15/09/2024,Electronics,4,209.81,839.23,1
+499,Brandon Moore,26,Male,Canada,15/03/2016,06/11/2022,Sports,6,80.47,482.79,2
+500,Cynthia Garcia,29,Male,India,16/11/2021,04/08/2023,Clothing,7,160.47,1123.27,4
+501,Brian Harper,70,Female,India,26/07/2023,27/12/2023,Sports,6,121.19,727.15,3
+502,Brittany Ferguson,18,Male,UK,17/10/2023,05/09/2024,Beauty,8,19.8,158.41,3
+503,Brittney Holden,18,Male,India,03/01/2024,09/07/2024,Sports,4,174.89,699.55,4
+504,Chelsea Wilson,64,Female,Brazil,04/05/2022,19/01/2024,Home & Kitchen,1,473.75,473.75,
+505,Melissa Reynolds,51,Female,Germany,14/12/2020,12/08/2024,Home & Kitchen,7,460.2,3221.38,
+506,Elizabeth Allen,49,Male,France,06/03/2021,05/06/2022,Home & Kitchen,3,300.04,900.13,4
+507,Alicia Weaver,65,Male,Australia,20/07/2023,15/11/2024,Clothing,6,57.67,346.01,3
+508,Rebecca Cuevas,42,Male,UK,02/01/2023,27/09/2024,Clothing,2,29.11,58.21,3
+509,Madison Brown,57,Female,France,01/08/2020,07/02/2023,Sports,9,47.34,426.03,3
+510,Joshua Le,62,Male,France,20/11/2022,19/03/2023,Home & Kitchen,1,108.11,108.11,4
+511,Leslie Jones,70,Female,USA,03/10/2023,14/07/2024,Clothing,6,173.55,1041.31,4
+512,Jeremy Reyes,18,Other,Brazil,02/11/2020,29/12/2022,Electronics,6,705.56,4233.37,4
+513,Amanda Warren,33,Male,UK,09/04/2022,24/06/2024,Sports,5,125.05,625.27,4
+514,John Smith,56,Female,India,22/03/2018,05/04/2020,Beauty,5,32.31,161.57,3
+515,Andrew Richardson,22,Other,Australia,22/11/2021,06/06/2023,Books,1,34.71,34.71,4
+516,Jose Torres,39,Male,UK,11/04/2024,01/05/2024,Sports,10,289.26,2892.56,3
+517,Brandon Miller,46,Female,India,26/04/2020,15/01/2022,Books,5,68.09,340.45,4
+518,Allison Sosa,20,Female,France,08/12/2023,13/08/2024,Home & Kitchen,2,79.31,158.62,4
+519,Jared Garner,29,Female,Australia,16/11/2018,31/07/2019,Books,7,97.1,679.68,4
+520,Daniel Dudley,43,Female,India,13/02/2016,17/04/2016,Home & Kitchen,3,299.97,899.92,4
+521,Ethan Atkinson,33,Female,Germany,09/02/2018,10/09/2021,Electronics,4,122.22,488.86,4
+522,Keith Perez,68,Female,India,18/06/2023,28/01/2024,Books,3,14.98,44.95,3
+523,Brenda Moore,54,Female,USA,23/04/2017,02/10/2022,Sports,3,20.15,60.44,1
+524,Bradley Alexander,39,Female,Brazil,02/02/2016,16/04/2019,Home & Kitchen,4,81.07,324.27,4
+525,Drew Schwartz,46,Female,France,22/10/2020,31/07/2021,Sports,5,109.34,546.7,3
+526,Amber Lewis,31,Female,India,31/10/2023,02/10/2024,Clothing,1,140.18,140.18,4
+527,Tyler Armstrong,45,Male,Brazil,01/03/2019,19/04/2022,Home & Kitchen,4,237.71,950.86,5
+528,Kevin Gomez,22,Male,Canada,26/05/2021,07/12/2023,Books,8,6.03,48.21,
+529,Carlos Anderson,64,Male,Canada,04/07/2023,24/01/2024,Home & Kitchen,10,369.75,3697.46,
+530,Michael Osborne,66,Male,Brazil,31/05/2022,29/04/2024,Sports,7,241.26,1688.82,1
+531,David Williams,47,Male,Brazil,14/11/2020,19/08/2024,Electronics,9,754.15,6787.39,
+532,Deborah Gonzalez,63,Female,USA,20/08/2023,14/10/2024,Home & Kitchen,5,72.84,364.18,4
+533,Drew Freeman,69,Male,Germany,17/11/2019,22/05/2024,Books,10,79.51,795.07,4
+534,Angela Gibson,22,Female,France,25/01/2019,14/09/2019,Clothing,4,42.66,170.65,1
+535,Joseph Bailey,29,Male,UK,16/10/2024,20/10/2024,Beauty,8,134.49,1075.88,5
+536,Tonya Campbell,33,Female,USA,07/08/2023,25/04/2024,Electronics,9,853.78,7684,2
+537,Erik Walker,43,Other,Germany,18/01/2019,29/06/2024,Clothing,7,22.14,154.96,5
+538,Cole Allen,43,Male,Brazil,05/06/2016,12/08/2019,Home & Kitchen,7,75.27,526.92,1
+539,Samantha Bennett,65,Female,UK,24/09/2016,19/09/2018,Sports,5,24.21,121.06,4
+540,Derek Martin,38,Male,Brazil,17/06/2022,17/09/2022,Sports,4,163.25,653.01,4
+541,Michael Garcia,56,Female,Brazil,10/10/2019,15/05/2024,Books,10,91.6,916.01,3
+542,Julie Jackson,53,Male,Canada,27/11/2023,11/05/2024,Sports,1,174.93,174.93,2
+543,Susan Ruiz,50,Female,Canada,17/10/2024,17/11/2024,Electronics,10,393.24,3932.41,4
+544,Jessica Marsh,47,Male,UK,17/08/2021,10/10/2022,Sports,10,240.32,2403.22,2
+545,John Taylor,54,Female,USA,06/08/2016,28/05/2020,Books,7,5.48,38.38,4
+546,Bruce Larsen,40,Female,Canada,21/01/2022,25/02/2022,Beauty,1,120.41,120.41,4
+547,Andrew Carroll,27,Male,France,07/06/2017,21/08/2019,Home & Kitchen,1,355.7,355.7,5
+548,Kenneth Greene,,Male,Brazil,07/04/2017,08/06/2024,Home & Kitchen,5,73.77,368.83,4
+549,Justin Davidson,53,Male,Australia,07/09/2023,15/02/2024,Sports,9,130.18,1171.64,1
+550,Daniel Stevens,51,Male,India,27/08/2022,02/05/2023,Clothing,6,171.68,1030.09,3
+551,Stacy Clark,69,Female,UK,18/09/2017,17/04/2020,Home & Kitchen,3,246.23,738.7,3
+552,Steve Carson,48,Male,UK,17/09/2019,20/01/2021,Beauty,3,91.41,274.24,
+553,Jo Jones,27,Male,Canada,20/10/2024,19/11/2024,Sports,7,25.32,177.23,5
+554,Brittany Hughes,36,Male,USA,05/01/2024,23/05/2024,Books,6,9.41,56.45,3
+555,Teresa Ortega,49,Female,Brazil,03/02/2022,10/03/2022,Beauty,9,96.78,870.98,1
+556,Deborah Murray,18,Male,France,30/01/2018,27/12/2023,Sports,6,47.61,285.69,5
+557,James Foster,22,Male,USA,11/02/2017,27/08/2018,Beauty,5,78.68,393.42,5
+558,Joshua Harper,62,Male,Germany,16/09/2018,31/05/2021,Home & Kitchen,10,213.74,2137.4,5
+559,Leonard Jennings,21,Male,Germany,23/03/2020,14/05/2024,Books,7,12.33,86.3,5
+560,Ashley Larsen,33,Female,Australia,13/01/2023,06/11/2024,Sports,1,83.86,83.86,4
+561,Cynthia Anderson,41,Male,Canada,01/04/2024,27/09/2024,Electronics,7,902.08,6314.56,2
+562,Jonathan Byrd,33,Male,,12/07/2018,05/03/2019,Books,3,27.73,83.19,4
+563,Jeremy Wilson,19,Female,Canada,31/07/2020,08/07/2022,Electronics,9,390.45,3514.09,4
+564,Robin Martin,66,Female,Australia,16/06/2023,27/03/2024,Beauty,6,97.92,587.54,4
+565,Matthew Murphy,45,Male,Germany,22/08/2024,15/10/2024,Clothing,9,66.62,599.59,4
+566,Carrie Mclaughlin,49,Female,USA,20/06/2023,30/01/2024,Books,5,53.31,266.55,3
+567,Jason Cobb,44,Female,Australia,01/06/2018,27/12/2019,Beauty,7,35.52,248.62,3
+568,George Phillips,37,Male,Australia,22/11/2018,05/08/2020,Electronics,4,904.96,3619.86,4
+569,Kristen Johnson,41,Female,USA,02/03/2022,06/07/2024,Home & Kitchen,7,339.51,2376.59,2
+570,Mark Wilkins,,Female,Canada,20/07/2024,17/08/2024,Home & Kitchen,1,256.87,256.87,4
+571,Michael Hunt,67,Male,France,22/10/2021,05/02/2022,Clothing,7,189.4,1325.8,5
+572,Judy Forbes,52,Male,USA,26/07/2024,28/10/2024,Books,8,87.13,697.05,5
+573,Tracey Larson,50,Male,Germany,28/09/2017,02/02/2019,Books,5,52.46,262.29,4
+574,Juan Barr,50,Female,UK,04/12/2016,15/09/2019,Books,2,46.66,93.32,4
+575,Andrea Stevenson,68,Other,Brazil,17/02/2023,01/06/2023,Beauty,5,77,385,1
+576,Anthony Freeman,60,Female,UK,01/04/2018,26/04/2020,Clothing,6,170.98,1025.89,4
+577,Michael Burton,54,Male,India,16/12/2021,28/11/2023,Books,2,17.54,35.09,4
+578,Robert Hartman,29,Female,India,01/02/2016,06/05/2024,Beauty,6,55.53,333.2,4
+579,Samuel Rice DDS,20,Female,Australia,08/12/2017,19/09/2022,Home & Kitchen,6,331.78,1990.68,5
+580,Taylor Phillips,,Male,Brazil,13/06/2018,03/12/2020,Electronics,1,172.93,172.93,4
+581,Blake Peterson,50,Male,UK,22/04/2022,03/11/2022,Beauty,1,68.57,68.57,1
+582,Kevin Myers,57,Female,France,22/09/2017,16/07/2019,Home & Kitchen,10,154.08,1540.83,3
+583,Ashley Donovan,27,Male,Canada,08/03/2020,23/03/2022,Home & Kitchen,3,197.31,591.92,4
+584,Keith Jennings,60,Female,Germany,17/09/2020,28/12/2021,Electronics,10,178.88,1788.85,4
+585,Paul Edwards,61,Male,India,13/07/2024,29/07/2024,Home & Kitchen,10,445.07,4450.69,5
+586,Michael Sparks Jr.,46,Male,France,24/10/2016,10/02/2019,Clothing,3,67.34,202.03,4
+587,David Underwood,30,Male,Germany,28/07/2017,27/09/2017,Electronics,4,517.43,2069.73,4
+588,Richard Fernandez,29,Male,Germany,27/05/2023,31/10/2024,Home & Kitchen,2,294.41,588.81,4
+589,Shane Andrade,48,Female,Canada,18/06/2019,05/03/2022,Sports,9,31.07,279.67,4
+590,Frederick King,63,Male,Brazil,31/07/2021,22/12/2023,Beauty,10,11.93,119.31,4
+591,Jane Huff,19,Female,Australia,17/07/2021,02/06/2023,Home & Kitchen,7,263.72,1846.05,4
+592,Taylor Reilly,68,Female,UK,26/11/2018,22/07/2022,Clothing,7,32.94,230.59,4
+593,Tracy Finley MD,67,Female,Canada,19/08/2021,02/06/2024,Books,6,34.91,209.44,3
+594,Adam Brown,52,Male,France,14/02/2019,10/06/2023,Home & Kitchen,3,206.97,620.9,5
+595,Christopher Kim,40,Female,Australia,09/12/2015,27/05/2023,Books,6,50.41,302.46,3
+596,Robert Alvarado,34,Female,France,20/04/2018,23/05/2020,Sports,8,164.21,1313.67,2
+597,Angela Miller,43,Male,Australia,25/01/2022,24/04/2024,Home & Kitchen,8,192.85,1542.78,1
+598,Barbara Powell,25,Male,Brazil,07/04/2016,16/08/2023,Electronics,9,207.61,1868.45,1
+599,Jeffrey Thomas,46,Female,India,28/10/2020,04/09/2021,Books,1,29.2,29.2,4
+600,Christopher Phillips,43,Other,France,13/11/2020,05/10/2024,Sports,1,20.62,20.62,2
+601,Jill Chapman,27,Male,Canada,03/04/2016,09/09/2019,Electronics,3,823.69,2471.06,1
+602,David Marsh,43,Female,Australia,13/12/2015,22/08/2019,Electronics,3,483.34,1450.03,4
+603,Jordan Lewis,51,Female,Australia,13/06/2022,04/07/2022,Electronics,10,995.22,9952.16,4
+604,Adam Hernandez,68,Female,Germany,03/08/2020,19/02/2023,Electronics,8,183.25,1466,1
+605,Patricia Pineda,58,Other,Germany,26/04/2018,26/05/2023,Home & Kitchen,10,326.56,3265.63,4
+606,Martin Jimenez,24,Female,USA,19/04/2017,21/10/2018,Beauty,1,125.12,125.12,5
+607,Katrina Riggs,21,Male,France,11/01/2017,27/08/2020,Home & Kitchen,2,461.9,923.8,
+608,Melissa Savage,70,Male,Germany,01/04/2024,08/04/2024,Home & Kitchen,2,64.94,129.89,4
+609,Brenda Greene,67,Male,USA,04/08/2019,25/07/2020,Sports,3,176.6,529.8,3
+610,Heather Clark,62,Female,,23/11/2019,28/08/2023,Sports,6,209.82,1258.94,5
+611,Nancy Wilson,28,Female,India,18/04/2022,02/10/2023,Beauty,1,132.14,132.14,4
+612,Cynthia Snyder,46,Male,Germany,28/07/2024,12/11/2024,Sports,2,280.31,560.61,3
+613,Stephanie Reyes,53,Female,France,13/06/2023,02/07/2024,Clothing,1,18.93,18.93,5
+614,Justin Phillips,42,Female,Australia,18/02/2023,11/07/2023,Beauty,5,79.27,396.35,4
+615,Christopher Murray,38,Female,UK,13/09/2018,25/10/2022,Sports,7,234.75,1643.22,
+616,David Gillespie,53,Male,Brazil,05/07/2018,23/08/2022,Beauty,8,28.49,227.88,5
+617,Michael Ferguson,27,Female,France,19/07/2023,25/08/2024,Home & Kitchen,10,252.17,2521.72,4
+618,Jamie Washington,54,Male,Brazil,10/04/2019,08/02/2022,Home & Kitchen,1,171.47,171.47,5
+619,Gary Benton,26,Male,Canada,08/09/2016,12/04/2019,Beauty,7,59.43,416.01,4
+620,Lindsey Pham,41,Male,India,20/08/2022,23/02/2023,Clothing,5,150.77,753.83,4
+621,Diana Smith,52,Male,Germany,03/06/2021,02/12/2021,Clothing,10,113.09,1130.89,5
+622,Derrick Jimenez,66,Male,Germany,30/05/2020,08/08/2022,Beauty,1,120.45,120.45,4
+623,Christopher Willis MD,52,Female,Brazil,02/03/2024,01/08/2024,Sports,3,270.97,812.9,5
+624,Teresa Reed,65,Male,Australia,11/06/2018,15/12/2023,Books,7,86.15,603.08,5
+625,Kirsten Clark,53,Female,Brazil,21/03/2022,26/09/2023,Clothing,10,102.95,1029.53,
+626,Mrs. Elizabeth Smith,35,Male,Canada,09/03/2021,13/01/2023,Electronics,1,939.29,939.29,5
+627,Kathleen Stanley,66,Female,Australia,26/08/2024,30/09/2024,Home & Kitchen,7,269.69,1887.85,4
+628,Madison Bennett,56,Other,Canada,28/02/2024,07/10/2024,Beauty,5,40.81,204.05,2
+629,Tara Carey,49,Male,UK,06/10/2019,13/08/2021,Electronics,1,459.25,459.25,5
+630,Frank Brooks,41,Male,India,11/05/2020,13/09/2022,Beauty,1,97.01,97.01,3
+631,Benjamin Riggs,40,Male,Germany,24/05/2021,01/06/2021,Home & Kitchen,1,193.57,193.57,3
+632,Valerie Fernandez,49,Female,Germany,30/06/2020,21/02/2021,Home & Kitchen,9,215.08,1935.73,3
+633,Anna Galloway,54,Female,UK,12/05/2018,28/08/2023,Clothing,3,136.11,408.33,5
+634,Ashley Parker,29,Male,USA,28/12/2017,16/08/2024,Clothing,5,32.47,162.33,5
+635,Kristin Burke,66,Female,India,29/12/2020,12/03/2022,Electronics,10,222.12,2221.19,4
+636,Samantha Nguyen,30,Male,Australia,04/06/2018,09/09/2022,Beauty,9,77.71,699.39,4
+637,Dr. Tracy Nelson,40,Male,UK,14/12/2021,10/11/2023,Home & Kitchen,6,478.83,2873,4
+638,Daniel Stark,42,Female,Australia,06/03/2022,14/09/2023,Electronics,9,916.96,8252.66,4
+639,Pamela Sims,52,Male,Brazil,13/08/2019,14/09/2022,Books,8,37.6,300.81,4
+640,Mary Jackson,58,Female,France,31/07/2017,22/11/2020,Electronics,8,730.39,5843.11,3
+641,Daniel Clayton,47,Male,Germany,16/09/2020,12/01/2023,Sports,1,104.28,104.28,3
+642,Monica Lawrence,34,Other,Australia,07/06/2021,28/10/2022,Electronics,9,403.57,3632.15,4
+643,Sherri Baker,66,Male,Canada,07/07/2021,23/12/2022,Sports,6,107.41,644.47,4
+644,Isaac Alvarez,37,Male,Australia,23/01/2016,13/01/2020,Sports,9,46.64,419.8,4
+645,Christopher Gilbert,65,Female,France,18/11/2020,13/12/2023,Sports,3,141.19,423.56,
+646,James Henry,42,Male,India,26/04/2023,26/06/2023,Books,3,18.57,55.7,1
+647,Russell Patton,39,Other,Germany,30/06/2021,25/03/2022,Electronics,6,977.66,5865.97,3
+648,Denise Jordan,30,Female,Brazil,06/08/2023,25/06/2024,Electronics,9,849.88,7648.96,4
+649,Miranda Howard,36,Female,UK,26/07/2024,08/10/2024,Books,7,76.6,536.2,1
+650,Donald Clark,66,Female,Brazil,28/03/2024,01/10/2024,Home & Kitchen,3,339.6,1018.8,3
+651,Daniel Duncan,53,Female,France,04/07/2023,05/05/2024,Clothing,3,69.04,207.11,3
+652,Susan Bryant,29,Female,Germany,11/05/2016,14/03/2019,Electronics,2,937.58,1875.16,4
+653,Vincent Ramsey,58,Female,Australia,12/01/2024,25/10/2024,Clothing,9,172.8,1555.19,3
+654,Deborah Mclean,36,Female,India,23/01/2022,10/10/2024,Beauty,3,25.18,75.53,5
+655,James Terry,29,Male,USA,28/08/2019,18/09/2020,Beauty,5,39.36,196.81,4
+656,Shane Harris,26,Male,India,22/03/2016,20/11/2020,Books,9,10.32,92.88,2
+657,Carmen Butler,24,Female,USA,11/06/2022,10/08/2022,Beauty,8,32.39,259.09,5
+658,James Vega,45,Male,Canada,05/09/2018,04/08/2020,Beauty,2,43.95,87.89,1
+659,Anthony Lewis,31,Female,India,07/09/2022,07/05/2023,Home & Kitchen,3,63.88,191.65,5
+660,Karen Phillips,48,Male,Germany,24/11/2022,15/11/2024,Home & Kitchen,2,287.28,574.57,
+661,Abigail Clark,69,Male,USA,04/05/2018,27/02/2021,Home & Kitchen,8,448.1,3584.79,3
+662,Jacqueline Martinez,36,Female,UK,05/05/2017,11/03/2024,Beauty,6,108.96,653.77,
+663,Stacey Savage,64,Female,Germany,06/09/2017,07/06/2018,Books,6,93.29,559.76,5
+664,Jordan Tucker,33,Male,UK,22/05/2017,10/06/2018,Sports,9,85.45,769.08,
+665,Kevin Hunter,70,Female,India,05/01/2024,08/10/2024,Sports,8,298.89,2391.08,4
+666,Nicole Huang,22,Female,UK,01/08/2018,20/12/2019,Clothing,4,91.1,364.41,3
+667,Thomas Reed,52,Male,USA,24/11/2019,07/09/2020,Sports,4,66.49,265.96,5
+668,Jasmine Jones,29,Female,Germany,16/07/2016,07/10/2018,Sports,9,52.06,468.52,2
+669,Joanna Anthony,42,Male,Australia,14/02/2017,10/07/2018,Home & Kitchen,1,495.56,495.56,3
+670,Steven Baker,69,Male,France,12/08/2019,18/03/2021,Home & Kitchen,2,443.76,887.51,3
+671,Kathleen Lamb,38,Other,USA,17/02/2023,11/09/2024,Beauty,2,116.98,233.96,3
+672,Edward Rangel,53,Male,USA,30/05/2020,26/07/2023,Clothing,6,40.11,240.63,4
+673,Timothy Lewis,70,Female,Australia,09/02/2023,14/04/2023,Electronics,4,100.17,400.67,5
+674,Steven Anderson,40,Female,Germany,05/09/2016,15/01/2022,Clothing,10,166.31,1663.14,
+675,Timothy Zuniga,33,Male,Germany,24/04/2017,09/06/2018,Clothing,3,69.16,207.49,1
+676,James Irwin,56,Female,Brazil,02/04/2017,26/11/2021,Books,3,12.57,37.7,
+677,Joshua Carter,62,Female,India,03/05/2017,17/03/2024,Beauty,3,87.15,261.46,
+678,Kim Cooper,70,Male,UK,09/09/2024,15/09/2024,Books,6,47.56,285.33,1
+679,Andrew Williamson,59,Female,India,02/02/2024,20/06/2024,Clothing,8,133.66,1069.27,3
+680,Emily Holt,56,Female,Australia,10/12/2020,09/09/2021,Clothing,7,126.86,888.04,5
+681,Jill Olson,31,Female,India,15/09/2023,28/04/2024,Clothing,4,43.38,173.51,4
+682,Linda Vincent,48,Female,Australia,20/06/2016,23/02/2022,Sports,4,156,624.02,5
+683,Katrina Fernandez,22,Male,Germany,22/10/2016,16/05/2023,Books,10,19.01,190.08,5
+684,Pamela Boyd,52,Female,UK,14/11/2020,18/01/2023,Clothing,2,194.92,389.84,4
+685,Patrick Holt,40,Female,India,24/07/2023,08/06/2024,Home & Kitchen,1,481.57,481.57,1
+686,Justin Perez,46,Female,USA,17/11/2018,14/04/2024,Beauty,9,146.59,1319.34,4
+687,Jose Wade,60,Female,Canada,04/04/2021,17/04/2022,Beauty,2,98.48,196.95,1
+688,Mary Estrada,28,Female,Brazil,02/06/2019,21/11/2022,Home & Kitchen,8,311.26,2490.08,4
+689,Jessica Lamb,35,Female,France,25/08/2019,29/09/2022,Beauty,9,149.52,1345.66,5
+690,Dustin Gallegos,64,Female,USA,01/09/2019,01/09/2024,Sports,4,66.1,264.4,4
+691,Natalie Campbell,29,Female,Germany,12/03/2016,11/01/2017,Sports,8,79.34,634.74,
+692,Jennifer Yang,26,Female,France,30/01/2024,10/10/2024,Electronics,9,657.97,5921.75,4
+693,Loretta Schneider MD,27,Female,Canada,28/04/2023,01/01/2024,Electronics,10,728.38,7283.79,5
+694,Julie Baldwin,61,Female,Canada,28/11/2020,21/12/2020,Electronics,10,293.42,2934.25,4
+695,Mark Mcclure,34,Male,UK,10/06/2023,07/09/2023,Beauty,5,126.93,634.67,
+696,Barbara Flynn,55,Male,France,02/08/2023,29/07/2024,Sports,7,51.36,359.5,5
+697,Joshua Lin,24,Male,UK,23/01/2021,20/02/2021,Sports,10,272.44,2724.41,2
+698,Zachary Bryant,,Female,USA,05/12/2018,03/06/2022,Sports,4,206.6,826.4,
+699,Tracy Pham,30,Female,Australia,02/04/2018,13/10/2018,Home & Kitchen,1,60.87,60.87,4
+700,Kenneth Dunn,57,Female,Australia,02/04/2018,26/09/2021,Sports,3,142.44,427.32,1
+701,Deanna Johnson,59,Male,Australia,10/11/2024,16/11/2024,Home & Kitchen,5,377.41,1887.03,4
+702,Isabella Soto,26,Female,France,29/09/2017,22/12/2020,Electronics,3,710.55,2131.66,5
+703,Edward Ortiz,67,Male,Australia,21/02/2023,07/10/2024,Electronics,7,633.49,4434.46,4
+704,Brittany Maxwell,44,Male,USA,24/03/2017,24/03/2019,Beauty,9,69.5,625.47,3
+705,Wanda Jones,19,Female,,09/04/2016,24/05/2016,Electronics,6,254.88,1529.26,5
+706,Mitchell Powell,22,Female,France,06/04/2019,06/08/2020,Beauty,10,96.34,963.38,5
+707,Kimberly Rivera,46,Male,UK,26/04/2020,03/02/2023,Clothing,1,88.74,88.74,4
+708,Patricia Bond,54,Male,France,14/03/2024,27/10/2024,Clothing,7,187.81,1314.65,2
+709,Mrs. Grace Mccarty,55,Male,UK,19/04/2023,17/09/2023,Books,3,96.79,290.37,3
+710,Katie Gamble,36,Male,Canada,26/06/2020,14/09/2021,Beauty,5,8.83,44.13,5
+711,Sonya Alvarez,25,Female,UK,08/06/2021,18/02/2024,Books,10,64.89,648.9,5
+712,Kristine Mason,65,Male,Australia,13/11/2021,24/02/2024,Books,4,32.83,131.31,3
+713,Mark Richards,62,Female,Canada,25/04/2023,24/03/2024,Clothing,10,125.81,1258.06,3
+714,Emily Carey,18,Female,UK,02/09/2022,03/01/2024,Beauty,5,14.29,71.46,1
+715,Edward Gonzalez,39,Male,France,17/12/2016,18/02/2020,Clothing,5,160.48,802.39,5
+716,Allison Best,69,Male,France,07/01/2018,14/04/2019,Books,6,29.38,176.31,1
+717,Jonathan Johnson,34,Male,Brazil,12/03/2023,19/06/2023,Beauty,10,76.56,765.62,1
+718,Jill Gordon,24,Male,France,21/01/2023,03/02/2023,Books,10,50.6,506.02,1
+719,Robin Snow,42,Male,Germany,02/06/2020,29/06/2021,Sports,6,241.19,1447.11,4
+720,Christopher Patterson,62,Female,USA,17/11/2020,02/09/2021,Beauty,8,43.96,351.69,4
+721,Austin Barrera,21,Male,France,04/08/2022,19/12/2022,Beauty,8,55.4,443.22,3
+722,Steven Ward,53,Other,Canada,15/02/2017,04/09/2022,Books,9,78.22,703.94,
+723,Mary Parrish,23,Male,Brazil,22/08/2018,29/03/2019,Sports,8,260.17,2081.38,2
+724,Kristy Mcintyre,48,Female,France,23/11/2023,28/01/2024,Home & Kitchen,2,171.9,343.8,3
+725,William Fernandez,36,Female,Germany,01/03/2022,09/12/2023,Clothing,10,19.6,195.96,
+726,James Brooks,,Female,Australia,25/06/2016,16/05/2022,Books,1,97.4,97.4,4
+727,Erik Diaz,56,Female,Canada,03/12/2016,12/05/2022,Beauty,10,118.93,1189.34,4
+728,Laurie Russell,44,Female,Germany,27/01/2022,16/03/2022,Clothing,2,59.92,119.83,1
+729,Jeffrey Ellis,27,Female,Australia,14/07/2023,11/08/2023,Clothing,2,99.73,199.45,5
+730,Kevin Evans,43,Female,India,13/05/2023,01/05/2024,Clothing,3,71.62,214.87,4
+731,Matthew Smith,36,Female,India,25/08/2019,11/08/2020,Home & Kitchen,10,359.72,3597.22,5
+732,Donald Mccormick,,Male,Canada,28/03/2022,05/02/2023,Electronics,7,109.44,766.11,3
+733,Mr. Alejandro Robinson,20,Male,UK,31/10/2021,30/12/2023,Books,2,43.25,86.51,4
+734,Miss Kayla Fernandez MD,62,Female,USA,14/05/2023,14/08/2023,Electronics,1,234.23,234.23,5
+735,Javier Perry,30,Female,Brazil,13/10/2022,09/11/2023,Electronics,6,807.33,4844,
+736,James Martinez,67,Female,USA,28/04/2016,07/09/2023,Electronics,9,656.14,5905.25,1
+737,Diane Hamilton,45,Female,Germany,01/05/2016,05/05/2024,Clothing,3,95.03,285.1,5
+738,Kathryn Fowler,37,Other,Australia,01/02/2020,08/01/2021,Sports,6,174.21,1045.24,3
+739,Maria Smith,45,Male,USA,18/07/2022,21/11/2023,Clothing,3,77.97,233.92,4
+740,Kathryn Ware,25,Male,Australia,19/02/2024,31/10/2024,Clothing,1,22.14,22.14,3
+741,Sheila Clark,58,Male,Australia,23/10/2022,07/01/2024,Beauty,5,59.68,298.41,4
+742,Laura Wells,56,Male,Germany,02/07/2018,25/05/2019,Beauty,10,136.43,1364.27,3
+743,Tabitha Thompson,18,Female,Germany,14/08/2024,22/10/2024,Electronics,4,649.34,2597.36,3
+744,Laura Nichols,20,Male,Germany,13/04/2019,22/12/2023,Clothing,7,99.72,698.06,1
+745,Elizabeth Rowland,30,Female,USA,06/07/2020,27/07/2022,Electronics,6,204.81,1228.88,2
+746,Michael Hardy,45,Male,India,23/05/2022,16/12/2023,Beauty,10,109.7,1097.04,
+747,Jill Reed,66,Female,Germany,28/10/2018,20/09/2020,Sports,7,63.45,444.13,
+748,Jean Torres,42,Female,Brazil,08/02/2017,23/09/2019,Books,5,23.53,117.65,5
+749,Craig Miller,50,Male,USA,07/11/2023,25/03/2024,Electronics,4,776.92,3107.66,3
+750,Kristen Tanner,55,Female,Germany,04/10/2016,04/07/2022,Sports,7,179.1,1253.69,4
+751,Carrie Santos,70,Male,France,04/08/2020,10/02/2024,Books,7,53.36,373.54,5
+752,Dennis May DDS,23,Male,Australia,31/05/2019,30/04/2023,Home & Kitchen,6,342.57,2055.42,
+753,Jonathan Evans,61,Male,Brazil,11/01/2024,04/05/2024,Electronics,8,497.04,3976.28,4
+754,Kathleen Gilbert,62,Male,Germany,20/09/2024,03/10/2024,Electronics,4,279.47,1117.88,5
+755,Albert Cooper,49,Male,Canada,28/06/2018,19/10/2023,Home & Kitchen,10,416.12,4161.19,
+756,Greg Fernandez,,Female,Australia,17/06/2020,14/12/2020,Home & Kitchen,5,436.74,2183.69,5
+757,Steven Anderson,64,Female,Australia,19/12/2022,20/01/2023,Electronics,4,161.3,645.19,3
+758,Autumn Romero,38,Female,Germany,05/04/2024,19/06/2024,Home & Kitchen,1,354.97,354.97,1
+759,James Kelley,33,Male,India,05/10/2021,06/11/2024,Clothing,8,140.78,1126.27,4
+760,Andrew Copeland,38,Female,UK,29/06/2018,06/01/2019,Books,1,57.88,57.88,4
+761,Matthew Ferrell,28,Male,India,15/12/2015,07/01/2018,Books,5,66.35,331.74,3
+762,Luke Mclean,54,Male,Germany,21/03/2024,13/04/2024,Books,6,6.28,37.7,3
+763,Cheryl French,53,Female,Australia,10/12/2019,24/05/2021,Clothing,6,191.61,1149.66,5
+764,Daniel Martin,52,Male,Brazil,28/02/2021,16/04/2021,Home & Kitchen,5,392.42,1962.09,4
+765,Alice Davis MD,36,Female,Canada,16/10/2021,01/07/2024,Sports,3,252.51,757.54,3
+766,Melinda Whitney,37,Female,Brazil,19/12/2016,26/05/2023,Home & Kitchen,5,234.8,1174,4
+767,Maria Smith,35,Male,Brazil,06/09/2019,22/05/2021,Electronics,8,112.9,903.18,4
+768,James Richmond,64,Male,Australia,21/01/2022,04/08/2024,Beauty,2,31.04,62.09,5
+769,Monica Young,58,Male,India,10/03/2019,01/01/2024,Books,6,72.07,432.41,2
+770,Julie Woodard,66,Female,Canada,23/05/2019,25/08/2024,Home & Kitchen,9,120.35,1083.13,5
+771,Jennifer White MD,31,Male,USA,15/06/2023,21/05/2024,Sports,8,255.34,2042.73,4
+772,Jennifer Moore,32,Male,France,21/03/2023,26/05/2024,Electronics,8,808.97,6471.74,1
+773,Lori Lee,48,Male,Australia,08/12/2017,04/04/2024,Clothing,8,29.71,237.71,5
+774,Taylor Smith,18,Female,Germany,02/05/2023,07/01/2024,Clothing,7,66.13,462.91,3
+775,Patrick Wells,70,Male,USA,31/12/2016,19/05/2022,Sports,8,215.62,1724.92,3
+776,Willie Silva,20,Male,France,24/06/2019,04/03/2023,Electronics,6,436.43,2618.56,4
+777,Mr. William Ramirez,33,Female,Germany,30/03/2024,28/05/2024,Books,2,86.29,172.57,3
+778,Robin Perez DDS,40,Female,Brazil,22/01/2021,15/08/2021,Home & Kitchen,2,261.69,523.37,3
+779,Heather Wilson,28,Male,UK,09/05/2024,06/07/2024,Electronics,8,228.66,1829.32,5
+780,Steven Hooper,29,Male,Germany,04/05/2017,17/02/2021,Clothing,1,12.6,12.6,2
+781,Nicholas Paul,27,Male,Canada,01/10/2019,19/03/2021,Sports,6,150.68,904.06,
+782,David Nelson,49,Female,Canada,14/05/2018,10/01/2024,Sports,6,211.43,1268.61,4
+783,Monica Vaughan,33,Male,UK,01/09/2016,05/06/2024,Home & Kitchen,4,311.07,1244.26,2
+784,Sherry Watson,25,Female,USA,17/04/2021,07/08/2022,Sports,10,168.37,1683.69,2
+785,Tanner Jackson,55,Female,France,10/05/2019,24/01/2024,Sports,3,148.61,445.84,4
+786,Brian Jones,29,Female,Germany,20/09/2023,21/12/2023,Electronics,3,895.21,2685.62,4
+787,Alvin Richardson,41,Male,Canada,28/05/2024,01/08/2024,Books,1,39.46,39.46,1
+788,Patrick Mcpherson,45,Female,USA,21/10/2021,29/08/2024,Home & Kitchen,3,474.93,1424.79,3
+789,Zachary Mitchell,70,Female,UK,13/05/2017,16/09/2022,Electronics,4,526.99,2107.97,5
+790,Joseph Anderson,25,Female,India,28/09/2020,03/01/2023,Books,5,69.97,349.84,1
+791,Jennifer York,45,Male,Australia,22/07/2020,14/12/2023,Electronics,3,123.23,369.69,5
+792,Allen Wright,53,Other,India,26/06/2016,11/09/2022,Beauty,6,148.03,888.21,4
+793,Teresa Hickman,43,Male,India,16/04/2023,31/03/2024,Electronics,5,568.4,2842.02,4
+794,Brian Ware,25,Male,Canada,25/09/2016,05/06/2020,Sports,3,251.46,754.37,3
+795,Vanessa Gates,67,Male,Brazil,09/01/2024,20/01/2024,Books,6,63.8,382.79,1
+796,Michael Brooks,45,Female,Brazil,20/02/2021,05/08/2023,Home & Kitchen,6,264.01,1584.06,5
+797,Richard Wells,45,Male,UK,24/05/2023,21/10/2024,Home & Kitchen,8,496.08,3968.63,2
+798,George Gomez,54,Male,Germany,23/03/2020,12/10/2024,Books,2,7.3,14.6,3
+799,Christine Mitchell,58,Male,Brazil,23/02/2016,12/06/2020,Sports,1,149.06,149.06,4
+800,Jason Benson,53,Male,India,26/08/2021,08/10/2021,Clothing,4,134.33,537.3,3
+801,Ronnie Scott,44,Female,Brazil,13/02/2021,30/07/2024,Electronics,7,912.49,6387.41,4
+802,Christopher Wilson,34,Female,India,10/11/2020,26/07/2024,Sports,10,291.32,2913.24,5
+803,Eric Bailey,26,Male,France,13/05/2019,11/11/2021,Beauty,3,18.66,55.99,4
+804,David Young,50,Male,Canada,20/03/2023,04/10/2024,Books,3,58.2,174.6,
+805,Jason Solis,70,Female,Canada,26/07/2021,14/05/2022,Electronics,5,630.29,3151.47,5
+806,Megan Martin,37,Male,Germany,03/02/2023,06/07/2023,Home & Kitchen,5,289.49,1447.45,3
+807,Jeremy Padilla,30,Male,Brazil,20/10/2022,06/10/2024,Clothing,10,34.97,349.68,3
+808,Christine Long,45,Other,Brazil,02/09/2017,23/03/2022,Beauty,3,23.71,71.13,4
+809,Holly Butler,65,Female,Australia,13/01/2016,13/11/2019,Home & Kitchen,9,461,4148.99,4
+810,Charles Burke,46,Male,USA,23/08/2024,07/09/2024,Books,4,33.63,134.53,3
+811,Courtney Collins,30,Female,France,28/05/2017,06/05/2019,Electronics,3,781.08,2343.25,
+812,Ian Johnson,63,Male,Canada,31/10/2017,15/03/2020,Books,2,19.3,38.6,4
+813,Michael Williams,52,Female,France,22/09/2023,30/07/2024,Electronics,10,249.47,2494.67,3
+814,Stacey Johnson,23,Male,Canada,30/06/2018,15/05/2023,Sports,9,116.56,1049.08,4
+815,Sarah Potts,35,Male,France,15/05/2022,12/10/2022,Clothing,4,141.12,564.49,3
+816,Kenneth Andrews,68,Male,UK,27/10/2022,29/01/2023,Sports,3,257.47,772.42,5
+817,Harold Sandoval,22,Female,India,15/04/2022,06/10/2024,Sports,7,135.82,950.74,4
+818,Alisha Munoz,64,Female,Canada,01/12/2019,07/11/2022,Books,8,36.61,292.88,1
+819,Deborah Henry,42,Male,France,10/08/2018,24/04/2020,Clothing,2,40.52,81.04,2
+820,Anna Barnes,19,Male,Brazil,04/06/2017,23/08/2018,Electronics,7,357.31,2501.17,5
+821,Christina Gordon,27,Female,USA,04/12/2018,29/12/2019,Electronics,5,705.15,3525.75,4
+822,Mitchell Smith,47,Male,,10/10/2023,18/09/2024,Beauty,5,12.63,63.17,
+823,Timothy Mcfarland,67,Male,UK,26/10/2021,22/02/2022,Home & Kitchen,3,110.97,332.91,1
+824,Timothy Hall,62,Other,USA,21/08/2024,26/09/2024,Beauty,5,49.27,246.36,3
+825,Jessica Becker,22,Male,France,06/12/2018,04/02/2020,Beauty,2,135,270.01,2
+826,David Anderson,50,Female,Brazil,17/03/2016,06/04/2019,Electronics,4,472.31,1889.24,4
+827,Kathryn Garza,18,Other,Germany,03/10/2024,22/10/2024,Books,6,33.39,200.35,3
+828,Donna Williams,35,Male,USA,28/10/2021,26/05/2024,Sports,1,62.31,62.31,2
+829,Donald Barker,49,Male,France,13/04/2018,11/09/2021,Sports,10,227.58,2275.79,4
+830,Shelley Wilkerson,64,Male,USA,27/05/2016,06/10/2017,Sports,4,122.81,491.23,4
+831,Kevin Howard,66,Female,USA,17/07/2019,25/08/2024,Clothing,6,11.29,67.75,3
+832,Alexandria Davis,28,Female,Canada,04/03/2023,24/09/2023,Electronics,9,971.02,8739.2,4
+833,Aaron Moore,38,Female,France,24/05/2018,24/12/2021,Books,2,67.05,134.1,5
+834,Victoria Avila,43,Male,Germany,17/09/2019,25/05/2020,Clothing,7,158.08,1106.56,3
+835,Mr. John Cain,42,Female,India,12/11/2020,05/10/2024,Home & Kitchen,6,69.39,416.37,3
+836,Scott Estrada,39,Female,Canada,11/04/2023,18/01/2024,Books,2,55.08,110.16,3
+837,Mrs. Vanessa Cole MD,44,Female,USA,18/06/2019,01/11/2023,Beauty,8,95.43,763.41,5
+838,Christine Howe,66,Female,India,09/09/2023,09/01/2024,Books,7,10.24,71.65,5
+839,Jose Farmer,30,Female,Australia,07/04/2016,07/02/2018,Books,5,89.35,446.74,3
+840,Cathy Sutton,,Female,India,01/02/2016,04/10/2024,Sports,5,23.66,118.29,3
+841,Carolyn Mayo,51,Female,USA,06/07/2017,25/11/2020,Books,7,25.53,178.72,5
+842,Samantha Carter,58,Male,USA,07/04/2024,24/10/2024,Beauty,9,56.37,507.29,
+843,Jacqueline Raymond,52,Male,Brazil,11/09/2020,02/06/2022,Beauty,9,100.94,908.46,4
+844,Cheryl Sanchez,18,Female,France,15/06/2024,25/07/2024,Electronics,9,803.47,7231.22,
+845,Dillon Ruiz,38,Male,France,09/02/2018,07/05/2021,Books,6,85.08,510.48,4
+846,Ricky Ross,65,Female,Canada,14/04/2022,05/11/2022,Sports,10,69.67,696.73,5
+847,John Flores,23,Other,Germany,05/05/2021,03/11/2024,Books,6,86.78,520.66,3
+848,Justin Howard,45,Female,Canada,14/07/2018,06/09/2018,Home & Kitchen,3,478.12,1434.37,4
+849,Anna Morrison,34,Male,UK,11/01/2021,19/12/2022,Home & Kitchen,1,439.6,439.6,2
+850,Mary Williams,22,Male,USA,10/08/2019,22/09/2019,Sports,7,35.47,248.27,5
+851,Roger Acevedo,48,Male,India,11/05/2017,06/11/2018,Electronics,4,965.45,3861.82,
+852,Melissa Russell,22,Female,Australia,15/06/2023,31/12/2023,Electronics,1,757.22,757.22,4
+853,Matthew Jordan,55,Female,USA,07/01/2020,26/08/2020,Beauty,8,15.08,120.63,3
+854,Mary Nelson,20,Female,USA,20/11/2017,29/04/2018,Beauty,6,145.96,875.78,2
+855,Karen Bishop,70,Male,Canada,28/11/2015,13/04/2020,Clothing,6,23.1,138.58,3
+856,Sara Smith,40,Female,Australia,10/02/2021,28/09/2023,Sports,2,89.48,178.96,3
+857,Kayla Thompson,54,Female,Australia,29/06/2021,28/06/2022,Books,1,77.26,77.26,4
+858,Stephen Middleton,70,Male,Australia,19/06/2019,21/07/2019,Sports,2,103.27,206.55,
+859,Teresa Mullen,54,Female,Canada,16/12/2019,07/03/2020,Clothing,4,176.76,707.05,1
+860,Paula Allen,27,Male,USA,27/01/2016,19/07/2018,Beauty,2,119.94,239.88,1
+861,Jason Adams,27,Male,Canada,29/07/2019,02/05/2024,Sports,1,270.49,270.49,4
+862,Bridget Norton,36,Female,France,06/06/2019,16/12/2022,Sports,7,196.32,1374.26,3
+863,Michaela Noble,34,Male,France,27/10/2020,17/02/2021,Beauty,8,68.5,548.04,5
+864,Catherine Cruz,38,Female,Canada,13/05/2022,23/10/2023,Clothing,6,147.26,883.55,3
+865,Steven Graves,31,Female,Australia,02/05/2024,15/06/2024,Beauty,4,15.52,62.08,3
+866,Lynn Nelson,26,Female,Brazil,15/02/2021,26/12/2023,Electronics,6,961.48,5768.86,3
+867,David Reynolds,63,Male,USA,17/06/2020,12/04/2021,Books,3,98.45,295.36,2
+868,Mrs. Sandra Hanson MD,,Female,Canada,10/01/2020,25/07/2022,Beauty,8,49.21,393.66,4
+869,Thomas Leon,68,Female,Canada,14/04/2024,22/09/2024,Clothing,10,175.6,1756.01,2
+870,Todd Gomez,62,Female,Canada,03/09/2017,17/05/2020,Home & Kitchen,2,491.31,982.62,4
+871,Amber Gould,30,Male,Brazil,11/05/2019,25/05/2020,Electronics,5,656.75,3283.75,4
+872,Brianna Hawkins,21,Male,Brazil,24/01/2019,05/11/2019,Home & Kitchen,1,443.93,443.93,1
+873,Christine Smith,18,Female,UK,04/03/2020,30/01/2023,Beauty,6,69.76,418.54,1
+874,Edgar Ortiz,66,Male,France,03/10/2024,10/11/2024,Electronics,2,669.52,1339.04,4
+875,Sean Dean,57,Female,India,24/11/2019,19/05/2022,Books,4,57.96,231.82,4
+876,Stephanie Black,49,Female,Australia,14/06/2018,18/05/2024,Beauty,6,108.76,652.54,
+877,Jennifer Stevens,51,Female,Germany,27/01/2021,20/08/2022,Books,10,84.27,842.71,2
+878,Brett Mason,45,Female,Brazil,29/04/2020,21/07/2024,Sports,8,189.24,1513.89,2
+879,Barbara Beard,48,Female,India,15/03/2024,18/08/2024,Home & Kitchen,8,474.37,3794.94,1
+880,Amy Drake,25,Female,Brazil,01/12/2016,05/04/2023,Electronics,6,490.65,2943.88,4
+881,Kyle Mendez,56,Female,Australia,11/11/2017,24/09/2021,Books,4,36.94,147.74,4
+882,Michael Harris,43,Female,Germany,06/06/2022,15/11/2024,Clothing,8,54.16,433.25,5
+883,Scott Barrett,51,Male,UK,11/11/2024,18/11/2024,Books,8,6.9,55.23,4
+884,Yvonne Kaiser,20,Male,Canada,21/12/2019,16/03/2023,Clothing,10,198.66,1986.59,3
+885,Sarah Joseph,67,Female,UK,15/02/2016,02/07/2016,Beauty,1,91.11,91.11,4
+886,Diana Harrison,29,Male,Brazil,30/08/2022,25/08/2023,Electronics,4,730.65,2922.61,
+887,Mark Brandt,18,Male,UK,22/07/2016,15/07/2023,Books,4,18.32,73.26,3
+888,Bryan Weaver,61,Male,India,27/01/2024,28/10/2024,Books,7,56.7,396.88,4
+889,Elizabeth Wilson,22,Female,USA,08/05/2023,06/10/2023,Electronics,7,414.87,2904.08,
+890,Tammy Walton,47,Female,Brazil,01/02/2017,01/06/2023,Books,8,14.03,112.27,5
+891,Michelle Hunter,47,Female,Brazil,16/07/2019,30/03/2022,Clothing,5,173.82,869.1,5
+892,Kevin Brown,34,Female,India,04/09/2021,07/12/2022,Books,7,73.92,517.44,3
+893,William Mcdaniel,65,Female,,01/12/2021,23/07/2024,Home & Kitchen,8,214.79,1718.32,4
+894,David Logan,64,Male,,07/09/2019,17/05/2021,Beauty,9,114.18,1027.64,1
+895,Erin Johnson,40,Female,Canada,10/11/2022,27/05/2023,Sports,3,25.14,75.42,4
+896,Lisa King,32,Male,India,11/12/2019,06/09/2020,Clothing,3,19.99,59.97,2
+897,Jennifer Hunt,54,Female,Germany,18/07/2017,28/08/2022,Home & Kitchen,4,256.35,1025.41,5
+898,Lauren Weiss,38,Female,Australia,10/01/2022,23/05/2023,Beauty,5,67.73,338.64,5
+899,Laurie Spencer,31,Male,Germany,29/03/2017,27/11/2022,Electronics,10,138.98,1389.84,4
+900,Richard Matthews,19,Male,Australia,16/02/2023,06/06/2023,Clothing,1,97.01,97.01,2
+901,Dalton Sharp,28,Male,India,17/11/2020,10/04/2021,Sports,7,242.78,1699.48,1
+902,Dr. Cathy Glenn,,Male,Brazil,08/01/2023,13/03/2023,Beauty,9,108.01,972.1,5
+903,Kevin Sharp,56,Male,Brazil,10/05/2024,25/06/2024,Sports,8,283.22,2265.79,4
+904,Paige Martin,55,Female,France,17/06/2018,14/01/2023,Electronics,5,276.18,1380.9,5
+905,Andrew Nicholson,51,Female,,05/10/2018,26/11/2019,Electronics,4,561.86,2247.43,3
+906,Sheryl Perez,55,Female,Australia,28/01/2017,09/01/2022,Clothing,7,108.47,759.31,4
+907,Stephen Buchanan,67,Female,Germany,01/12/2018,30/11/2020,Books,5,52.84,264.22,5
+908,Kayla Lee,51,Female,Germany,14/09/2024,01/10/2024,Electronics,7,385.57,2699.02,4
+909,Sean Garcia,35,Female,Australia,12/12/2020,04/11/2021,Beauty,1,72.39,72.39,4
+910,Jacqueline Boyd,47,Male,UK,30/06/2016,22/11/2018,Books,1,43.46,43.46,5
+911,Joseph Lopez,32,Female,France,27/11/2019,04/08/2023,Home & Kitchen,10,311.69,3116.89,3
+912,Christopher Gonzalez,44,Male,USA,14/03/2017,11/09/2022,Sports,3,188.49,565.46,1
+913,Michael Sullivan,68,Other,Brazil,17/06/2022,07/06/2024,Books,2,31.24,62.49,4
+914,Karl Bowers,51,Female,Canada,18/10/2022,05/03/2023,Sports,2,204.56,409.12,1
+915,Kimberly Watts,69,Female,Germany,30/04/2024,09/06/2024,Books,7,26.4,184.78,5
+916,Sean Villegas,55,Male,Canada,18/08/2022,19/11/2022,Home & Kitchen,10,157.65,1576.48,5
+917,Tina Martinez,50,Female,USA,14/02/2022,09/07/2024,Electronics,2,182.18,364.36,5
+918,Christopher Martin,41,Female,India,13/04/2022,02/06/2024,Home & Kitchen,4,154.09,616.34,4
+919,Max Lin,32,Male,Canada,15/12/2018,04/05/2021,Electronics,2,194.21,388.42,1
+920,Roger Heath,47,Male,USA,04/09/2021,28/07/2023,Electronics,6,215.74,1294.42,3
+921,Leslie Roberts,59,Female,Brazil,18/10/2016,19/09/2020,Sports,8,266.96,2135.69,5
+922,Brittany Perez,68,Male,Australia,27/03/2020,11/06/2021,Beauty,10,25.58,255.8,2
+923,Chelsea Roberts,34,Female,UK,18/05/2018,30/06/2020,Home & Kitchen,4,34.62,138.48,4
+924,Kimberly Anderson,22,Male,Brazil,12/04/2018,26/05/2023,Books,5,78.12,390.58,5
+925,Julian Mullins,46,Male,Germany,26/01/2020,02/07/2021,Home & Kitchen,4,430.24,1720.98,3
+926,Nicholas Jackson,21,Female,USA,20/04/2023,02/03/2024,Sports,3,132.98,398.94,3
+927,Joshua Bentley,27,Male,Canada,15/10/2019,03/09/2020,Electronics,5,328.25,1641.26,4
+928,Lori Jensen,34,Female,Germany,10/09/2024,03/11/2024,Sports,9,90.1,810.9,5
+929,John White,27,Male,UK,26/04/2023,02/07/2023,Clothing,8,93.34,746.75,3
+930,Sean Williams,34,Male,Australia,10/11/2024,12/11/2024,Clothing,8,17.36,138.91,
+931,Heather Taylor,37,Female,India,10/08/2022,11/11/2022,Books,8,73.51,588.08,4
+932,Jacob Phillips,41,Female,Germany,19/02/2016,18/06/2017,Sports,8,241.25,1929.96,
+933,Adam Jones,22,Female,India,28/08/2021,11/06/2022,Books,7,96.12,672.81,1
+934,Alicia Johnson,51,Female,USA,01/07/2019,19/03/2024,Books,8,93.45,747.63,2
+935,Susan Morales,23,Female,UK,29/12/2018,22/10/2023,Clothing,8,57.84,462.75,5
+936,Mrs. Cassandra Carroll,70,Male,Canada,06/10/2023,09/10/2024,Books,8,73.72,589.78,5
+937,Wesley Nguyen,19,Male,UK,05/09/2022,18/11/2022,Clothing,10,26.2,262.01,4
+938,Christina Watson,30,Female,UK,08/10/2016,09/07/2018,Electronics,7,330.17,2311.19,5
+939,Karen Ware,60,Female,France,22/06/2018,21/04/2024,Sports,1,192.25,192.25,5
+940,Evan Nichols,60,Female,UK,09/05/2022,23/01/2023,Books,4,30.86,123.45,1
+941,Lisa Mcdowell,,Male,UK,16/08/2018,27/11/2023,Clothing,4,60.37,241.49,4
+942,Kathleen Decker,28,Male,Brazil,27/12/2023,11/02/2024,Home & Kitchen,5,75.44,377.21,5
+943,Dana Yates,68,Female,Germany,03/03/2022,04/10/2023,Books,10,19.12,191.2,3
+944,Stephanie Holloway,64,Female,Canada,26/08/2022,30/09/2022,Beauty,6,37.73,226.35,3
+945,Dennis Smith,40,Female,Brazil,26/09/2018,22/10/2021,Electronics,4,634.64,2538.58,5
+946,Nicole Allison,33,Female,Brazil,13/12/2022,24/03/2023,Electronics,2,630.69,1261.38,3
+947,Joshua Weiss,48,Female,Germany,15/08/2024,15/08/2024,Home & Kitchen,6,259.85,1559.09,1
+948,Vincent Kane,28,Male,Germany,16/11/2017,17/08/2023,Clothing,8,109.6,876.78,
+949,Angela Wells,33,Male,USA,18/02/2024,19/02/2024,Books,8,83.92,671.38,4
+950,Richard English,25,Male,Germany,04/02/2022,12/11/2024,Clothing,7,60.76,425.3,5
+951,Mr. Dylan Grant MD,21,Male,France,02/04/2017,17/04/2024,Electronics,6,795.4,4772.42,5
+952,Cassandra Vincent,57,Female,France,11/07/2020,05/06/2023,Clothing,2,92.78,185.56,1
+953,Heidi Herrera,,Male,Brazil,27/11/2018,23/07/2021,Electronics,7,621.08,4347.56,2
+954,Annette Nelson,42,Female,India,12/06/2016,10/03/2021,Clothing,5,151.04,755.18,3
+955,Samuel Atkins,20,Male,USA,30/04/2020,30/05/2021,Home & Kitchen,6,490.05,2940.28,3
+956,Linda Welch,49,Male,India,02/12/2023,10/12/2023,Sports,10,247.52,2475.19,4
+957,Nicholas Sanchez,20,Male,India,02/03/2021,14/01/2023,Home & Kitchen,8,342.55,2740.39,4
+958,Larry Smith,44,Male,Brazil,25/03/2018,08/06/2018,Home & Kitchen,8,135.53,1084.22,4
+959,Mrs. Jennifer Lewis,46,Female,Australia,10/11/2023,03/05/2024,Sports,3,47.92,143.77,3
+960,Mark Palmer,49,Male,Brazil,09/05/2023,25/10/2024,Sports,7,291.27,2038.88,3
+961,Megan Morris,67,Female,Canada,11/11/2022,14/07/2024,Books,1,59.4,59.4,4
+962,Lisa Hess,68,Male,Canada,27/12/2015,19/07/2022,Books,1,52.56,52.56,4
+963,Mallory Lopez DVM,36,Male,Germany,30/01/2022,07/10/2023,Home & Kitchen,7,161.41,1129.87,2
+964,Richard Meyer DDS,38,Male,Germany,17/02/2016,14/03/2018,Home & Kitchen,10,144.18,1441.78,4
+965,Lisa Conley,22,Female,Australia,20/01/2021,01/03/2024,Electronics,9,696.31,6266.8,1
+966,David Hale,35,Female,Germany,21/04/2023,22/05/2024,Electronics,7,826.95,5788.62,3
+967,Mary Robinson,45,Male,Canada,18/06/2016,16/06/2019,Books,10,56.54,565.45,5
+968,Steven Cruz,59,Male,India,22/04/2023,25/08/2024,Beauty,5,78.54,392.68,1
+969,Nicholas Whitaker,39,Female,Brazil,30/09/2018,09/08/2022,Beauty,8,119.01,952.1,4
+970,Tasha Krause,38,Male,UK,18/10/2018,18/09/2022,Books,2,83.05,166.09,3
+971,Elizabeth Ford,23,Male,France,25/05/2017,24/03/2018,Electronics,9,287.56,2588.04,1
+972,Frank Brooks,18,Female,UK,14/05/2017,06/12/2018,Electronics,6,219.64,1317.81,2
+973,Jessica Kidd MD,22,Female,UK,08/01/2018,13/09/2024,Beauty,9,41.08,369.71,
+974,Catherine Howe,58,Male,Canada,31/10/2018,26/08/2022,Clothing,2,124.55,249.1,4
+975,Amber Porter,29,Female,,21/05/2021,31/05/2022,Clothing,3,134.3,402.91,
+976,David Marshall,43,Female,Brazil,15/04/2019,11/11/2021,Electronics,8,223.87,1790.93,4
+977,Chase Foley,63,Male,Australia,20/11/2018,20/02/2023,Clothing,1,24.24,24.24,4
+978,Timothy Cooper,51,Female,USA,24/06/2024,13/11/2024,Sports,10,104.66,1046.56,3
+979,Cynthia Whitney,66,Female,Germany,18/11/2018,06/02/2022,Books,7,74.65,522.55,3
+980,Evelyn Collins MD,31,Male,USA,06/06/2016,19/05/2022,Books,7,13.94,97.55,3
+981,Ryan Reese,43,Male,India,11/02/2016,08/07/2022,Electronics,1,474.64,474.64,3
+982,Annette Hall,62,Male,Brazil,13/02/2019,16/06/2019,Home & Kitchen,9,237.13,2134.17,4
+983,Stephanie Andrews,44,Female,Brazil,08/02/2017,03/06/2018,Beauty,8,34.93,279.48,2
+984,Lee Owen,26,Male,France,13/08/2022,26/06/2023,Electronics,4,136.26,545.04,3
+985,Troy Harvey,43,Female,Brazil,14/01/2017,07/03/2021,Clothing,10,107.7,1077.03,3
+986,Summer Davies,64,Female,Germany,28/04/2018,30/07/2020,Beauty,5,108.39,541.94,4
+987,Ashley Alexander,39,Male,Brazil,31/03/2020,14/02/2024,Home & Kitchen,2,48.8,97.61,4
+988,Christy Lawson,64,Female,UK,02/06/2024,26/08/2024,Clothing,9,155.9,1403.07,5
+989,Lauren Warren,47,Male,France,28/04/2024,09/06/2024,Sports,6,98.78,592.67,3
+990,Stefanie Spears,60,Female,Germany,25/02/2020,16/11/2020,Clothing,3,121.79,365.37,2
+991,Christopher Oconnor,65,Female,Australia,03/08/2020,16/09/2024,Sports,7,60.21,421.48,3
+992,Mindy Hicks,34,Male,Australia,30/05/2024,19/07/2024,Beauty,9,53.9,485.07,5
+993,Brenda Mckay,43,Male,Australia,15/02/2023,26/11/2023,Sports,3,45.19,135.56,1
+994,Mr. Todd Spence,53,Male,Australia,30/07/2024,05/10/2024,Beauty,2,27.25,54.49,4
+995,Michelle Anthony,18,Male,UK,13/09/2019,25/02/2022,Beauty,7,66.06,462.45,4
+996,John Martin,25,Male,Brazil,11/03/2018,24/01/2022,Beauty,7,14.93,104.53,2
+997,Diane Cisneros,66,Male,USA,07/11/2021,02/07/2022,Beauty,4,79.06,316.23,3
+998,Jonathan Kennedy,52,Other,Germany,06/06/2018,04/07/2021,Beauty,9,70.98,638.8,3
+999,Matthew Cross,69,Male,UK,08/07/2017,05/02/2022,Clothing,8,189.91,1519.26,5
+1000,Michael Keller,32,Male,Australia,20/06/2024,05/11/2024,Beauty,1,100.67,100.67,4
+1000,Michael Keller,32,Male,Australia,20/06/2024,05/11/2024,Beauty,1,100.67,100.67,4
