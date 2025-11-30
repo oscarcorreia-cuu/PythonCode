@@ -1,0 +1,3 @@
+This is an example of file manipulation in Python.
+We are demonstrating various file operations.
+Appending a new line to the file.
